@@ -1,0 +1,1552 @@
+[
+  {
+    "Props": [
+      {
+        "chislo": 5,
+        "DateResult": "2018-01-27",
+        "UserId": 9,
+        "Result": "проверка",
+        "Comment": "Nostrud culpa est irure et aliqua aliquip officia veniam non voluptate aliquip in."
+      }
+    ],
+    "DateRealisation": "2018-01-27",
+    "DateChange": "2018-01-27",
+    "Description1": "Magna irure elit mollit consequat officia elit aliqua enim anim proident velit anim. Elit officia aliquip voluptate culpa occaecat veniam esse eiusmod reprehenderit eiusmod. Aute reprehenderit labore irure dolore consectetur nostrud ipsum in duis mollit sit.",
+    "Description2": "Nostrud nulla Lorem in aute pariatur. Aliqua qui ea minim ea deserunt amet tempor culpa do laboris ex irure eiusmod et. Cupidatat cupidatat exercitation eiusmod ex exercitation nisi id. Ad laboris nostrud non nulla cupidatat id magna laborum velit laborum Lorem laboris in. Veniam mollit cupidatat tempor elit tempor officia culpa voluptate reprehenderit sit laboris ipsum.",
+    "Description3": "Minim pariatur reprehenderit veniam magna dolore ad minim in aliqua consequat nisi velit aute consequat. Et enim ea id tempor excepteur minim labore ex voluptate tempor reprehenderit. Enim consectetur exercitation dolor mollit irure. Lorem non ea consectetur occaecat qui dolore reprehenderit magna ipsum velit officia non ullamco excepteur.",
+    "Description4": "Consequat nostrud cupidatat nulla mollit amet sint labore proident non laboris ut. Amet aute laborum officia sunt incididunt nostrud eu sint non adipisicing. Enim nulla magna cupidatat amet nulla labore consectetur. Ex laborum sit adipisicing proident voluptate pariatur minim ad. Anim nostrud culpa et fugiat magna. Velit dolor excepteur aute dolor nisi deserunt aliquip ad consequat aute occaecat id. Magna labore et laboris commodo cillum dolor ex voluptate ipsum exercitation laborum qui.",
+    "Status": "проверка",
+    "OwnerId": 5,
+    "AuthorId": 9,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 12
+      },
+      {
+        "CoownerId": 5
+      },
+      {
+        "CoownerId": 21
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 3,
+        "DateResult": "2018-06-06",
+        "UserId": 5,
+        "Result": "черновик",
+        "Comment": "Sunt et elit nulla id ullamco est nisi nisi nisi."
+      }
+    ],
+    "DateRealisation": "2018-06-06",
+    "DateChange": "2018-06-06",
+    "Description1": "Anim sint tempor nulla in quis tempor incididunt est commodo do. Enim minim Lorem labore enim qui. Cupidatat mollit excepteur cillum proident adipisicing est. Duis proident in sit eiusmod id proident minim commodo eiusmod dolor quis.",
+    "Description2": "Mollit et fugiat pariatur ipsum eu incididunt quis. Enim aute do ad Lorem elit laborum adipisicing voluptate eiusmod deserunt. Qui dolor in minim voluptate id eu tempor reprehenderit irure ex aute aliqua ullamco. Occaecat enim elit sunt occaecat sit nostrud est quis minim aute anim aliquip.",
+    "Description3": "Minim cillum est ipsum ex. Commodo excepteur ut pariatur ad et esse nostrud. Occaecat consequat ex aliquip ea id commodo culpa.",
+    "Description4": "Tempor occaecat veniam dolor consectetur do non labore. Fugiat pariatur dolor mollit laboris aliquip esse sit. Qui nostrud amet ipsum tempor do elit adipisicing pariatur laboris ipsum nostrud cupidatat ex. Incididunt ea minim ex velit est in nulla aliquip.",
+    "Status": "черновик",
+    "OwnerId": 3,
+    "AuthorId": 5,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 17
+      },
+      {
+        "CoownerId": 25
+      },
+      {
+        "CoownerId": 23
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 4,
+        "DateResult": "2018-04-04",
+        "UserId": 7,
+        "Result": "согласование",
+        "Comment": "Laborum ad fugiat dolore magna."
+      }
+    ],
+    "DateRealisation": "2018-04-04",
+    "DateChange": "2018-04-04",
+    "Description1": "Ullamco excepteur dolore minim sit labore tempor reprehenderit labore est ut voluptate labore commodo. Eiusmod dolore est duis magna. Proident magna Lorem sit magna cupidatat velit aliquip. Dolor ullamco commodo dolore excepteur quis fugiat proident ea. Tempor est officia duis est officia magna in duis aute consectetur ullamco adipisicing aliqua commodo. Ut consequat do voluptate laboris ad aute ex ea pariatur. Eu minim fugiat irure excepteur irure do deserunt consequat elit fugiat qui.",
+    "Description2": "Tempor enim eu deserunt enim sit pariatur ipsum elit incididunt quis nulla. Ad veniam Lorem duis nulla amet ad aute mollit duis incididunt. Eu eu incididunt quis ipsum commodo quis id consequat sunt dolore. Nostrud elit ut culpa culpa minim id enim qui est velit. Pariatur ex deserunt dolor adipisicing officia adipisicing in incididunt incididunt voluptate id duis fugiat. Nostrud et minim eiusmod ullamco ullamco anim consectetur incididunt.",
+    "Description3": "Ipsum ullamco ut est ipsum mollit proident irure do. Amet ex sit ad voluptate cupidatat anim magna veniam do cillum. Elit fugiat elit ea occaecat commodo duis adipisicing sunt reprehenderit reprehenderit magna laboris exercitation eu. Officia commodo nisi duis amet laborum dolor magna sint esse ullamco consequat laborum nostrud cupidatat. Labore pariatur in eiusmod aliquip ea consequat adipisicing ex consequat.",
+    "Description4": "Ea do et id ex enim do incididunt. Consequat cupidatat veniam voluptate irure. Irure occaecat aliqua et adipisicing reprehenderit ullamco id dolor quis. Proident incididunt eiusmod enim sit cupidatat commodo eiusmod Lorem cupidatat irure consequat et anim aliqua. Ut velit culpa sunt deserunt pariatur in officia Lorem deserunt pariatur proident. Ullamco ullamco nostrud id sint dolor Lorem dolore sunt ex.",
+    "Status": "согласование",
+    "OwnerId": 4,
+    "AuthorId": 7,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 27
+      },
+      {
+        "CoownerId": 8
+      },
+      {
+        "CoownerId": 14
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 5,
+        "DateResult": "2018-12-10",
+        "UserId": 9,
+        "Result": "согласование",
+        "Comment": "Ex tempor anim tempor velit."
+      }
+    ],
+    "DateRealisation": "2018-12-10",
+    "DateChange": "2018-12-10",
+    "Description1": "Duis consectetur nulla laboris incididunt proident qui officia sunt ex. Pariatur consequat ea Lorem pariatur nisi. Quis dolor quis labore commodo laborum cillum ex laborum incididunt occaecat velit cillum. Aute officia qui duis excepteur duis. Esse nisi est minim elit quis nostrud anim sunt quis cillum esse fugiat. Eu culpa ullamco consectetur tempor sint officia consectetur deserunt ex ut proident. Ad do mollit sint officia sint.",
+    "Description2": "Qui non do in eu ad excepteur. Do officia ut esse elit esse reprehenderit culpa veniam et aliquip cupidatat aute. Occaecat dolore velit ullamco ipsum eu occaecat ut dolor et anim id sint.",
+    "Description3": "Consectetur aute esse reprehenderit minim incididunt esse. Cupidatat ex consectetur dolore qui ullamco reprehenderit commodo deserunt. Magna id officia deserunt do duis aliqua aliquip. Cupidatat ut ea aliqua cillum aliqua nisi labore.",
+    "Description4": "In mollit aliquip sit dolore ad anim sint amet non voluptate ipsum eu adipisicing. Nostrud ipsum do sunt laboris ipsum non culpa minim ex dolor exercitation aliquip culpa Lorem. Nisi ipsum duis eiusmod excepteur fugiat amet.",
+    "Status": "согласование",
+    "OwnerId": 5,
+    "AuthorId": 9,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 16
+      },
+      {
+        "CoownerId": 27
+      },
+      {
+        "CoownerId": 5
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 20,
+        "DateResult": "2018-06-01",
+        "UserId": 39,
+        "Result": "доработка РМ",
+        "Comment": "Fugiat duis cillum deserunt irure deserunt aute deserunt tempor."
+      }
+    ],
+    "DateRealisation": "2018-06-01",
+    "DateChange": "2018-06-01",
+    "Description1": "Dolor dolore mollit ex ea amet excepteur pariatur ex sint ullamco consequat in. Occaecat aliquip est veniam occaecat aute ipsum laboris ullamco reprehenderit veniam ut officia. Fugiat aliqua aute Lorem ex. In duis officia aute elit amet irure non mollit sint magna adipisicing laboris. Eiusmod esse excepteur non sunt sint aliqua esse aliquip.",
+    "Description2": "Adipisicing id eiusmod aliquip amet qui veniam nisi consectetur ullamco. Ullamco reprehenderit quis dolore elit do aliquip voluptate. Fugiat ea amet commodo nulla id nostrud nulla amet nisi magna commodo voluptate et amet. Deserunt duis excepteur ullamco culpa aute proident mollit excepteur. Et quis labore id ipsum nisi deserunt tempor duis tempor laboris deserunt.",
+    "Description3": "Excepteur consequat ut id cupidatat nisi. Occaecat mollit velit nisi commodo aliquip. Excepteur laboris minim magna amet.",
+    "Description4": "Proident amet nulla elit elit velit aute veniam eiusmod irure consectetur laborum. Fugiat adipisicing esse fugiat voluptate officia nisi aute anim laborum dolore aliquip est ea. Nostrud duis excepteur et excepteur. Occaecat deserunt nulla non dolor ea laborum labore magna eiusmod velit eiusmod est sunt. Voluptate ullamco pariatur nisi consequat aute proident ea cillum do Lorem ex dolore ad veniam. Cupidatat labore et ea enim officia amet culpa fugiat deserunt aliqua dolore officia.",
+    "Status": "доработка РМ",
+    "OwnerId": 20,
+    "AuthorId": 39,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 1
+      },
+      {
+        "CoownerId": 3
+      },
+      {
+        "CoownerId": 15
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 16,
+        "DateResult": "2018-08-02",
+        "UserId": 31,
+        "Result": "проверка",
+        "Comment": "Dolor consequat sint aliqua adipisicing exercitation eu reprehenderit nisi elit incididunt ad exercitation amet."
+      }
+    ],
+    "DateRealisation": "2018-08-02",
+    "DateChange": "2018-08-02",
+    "Description1": "Ad ea excepteur laboris pariatur. Fugiat ut reprehenderit velit nostrud minim sint dolor ad eiusmod ea nostrud aute fugiat. Dolor ullamco nulla irure incididunt exercitation aliqua officia eu qui culpa est ullamco sit aute. Aliquip magna duis aliqua veniam non. Est deserunt ad nisi ex ut dolor deserunt duis. Veniam velit ut qui fugiat. Ad mollit ad occaecat ullamco irure eu.",
+    "Description2": "Cillum in dolore aute officia non duis ea fugiat ex aliqua ipsum ullamco ad. Anim laborum ad consectetur ipsum in exercitation aliquip et esse sint amet. Eu nisi veniam irure proident est amet fugiat. Exercitation aute sunt quis officia sit tempor Lorem. Cillum labore non tempor esse labore aute. In ad magna aute officia. Incididunt anim nisi est eu.",
+    "Description3": "Eiusmod sunt id labore irure nisi cupidatat ullamco. Reprehenderit sint id deserunt voluptate amet excepteur cupidatat. Id voluptate nulla ut duis. Velit et amet qui anim sunt consequat. Tempor ullamco reprehenderit proident dolor.",
+    "Description4": "Consequat dolore nostrud tempor ea commodo eiusmod id et tempor in tempor. Qui eu do irure ad excepteur exercitation sunt amet eu aliqua labore. Irure in elit excepteur dolore. In excepteur velit non consectetur magna dolor cupidatat sint proident tempor ullamco. Cupidatat laborum aute deserunt officia exercitation ex labore duis dolore consequat excepteur velit. Cupidatat duis amet sit fugiat ipsum aliquip ea laborum. Cupidatat cillum tempor non dolore.",
+    "Status": "проверка",
+    "OwnerId": 16,
+    "AuthorId": 31,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 20
+      },
+      {
+        "CoownerId": 7
+      },
+      {
+        "CoownerId": 21
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 28,
+        "DateResult": "2018-05-15",
+        "UserId": 55,
+        "Result": "доработка РК",
+        "Comment": "Occaecat aliqua amet ad eu mollit enim laboris officia veniam consectetur enim."
+      }
+    ],
+    "DateRealisation": "2018-05-15",
+    "DateChange": "2018-05-15",
+    "Description1": "Ad commodo velit consectetur tempor. Aliqua dolore eu do consectetur reprehenderit adipisicing do. Reprehenderit eu fugiat dolor veniam nulla. Occaecat do laborum velit mollit nisi. Sint nostrud elit aliquip dolore amet aute magna adipisicing sit est aliquip sint occaecat id.",
+    "Description2": "Sit voluptate irure veniam id officia. Irure mollit labore ut labore labore veniam id cupidatat consequat tempor ad sint. Ipsum est mollit tempor laborum anim occaecat qui sit aliqua excepteur sint ullamco nostrud nisi. Sint veniam ex qui pariatur irure ex labore. Laborum deserunt officia dolor veniam cillum cupidatat ea duis. Velit fugiat cillum labore ullamco eiusmod sunt irure et.",
+    "Description3": "Dolore irure et aute non minim. Sint mollit sit officia nisi cupidatat occaecat aute enim qui ullamco. Anim duis cupidatat do pariatur. Aute ex tempor nulla ea ullamco excepteur deserunt in ad dolore tempor. Cillum tempor minim pariatur mollit. Non dolore mollit excepteur laborum commodo occaecat cupidatat proident consequat tempor. Ullamco consequat sint ea exercitation ex.",
+    "Description4": "Aute quis cillum Lorem cillum labore culpa fugiat. Sunt esse magna eu elit pariatur nostrud Lorem. Ea labore culpa aliquip ullamco. Proident commodo commodo duis voluptate. Ut laborum cillum non mollit occaecat aute laboris esse irure labore occaecat minim. Fugiat proident enim fugiat reprehenderit nisi amet sint nisi id sint irure aliqua cupidatat.",
+    "Status": "доработка РК",
+    "OwnerId": 28,
+    "AuthorId": 55,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 8
+      },
+      {
+        "CoownerId": 27
+      },
+      {
+        "CoownerId": 13
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 28,
+        "DateResult": "2018-05-04",
+        "UserId": 55,
+        "Result": "черновик",
+        "Comment": "Cupidatat tempor qui qui ad dolore veniam fugiat."
+      }
+    ],
+    "DateRealisation": "2018-05-04",
+    "DateChange": "2018-05-04",
+    "Description1": "Adipisicing culpa sit voluptate commodo eu fugiat magna dolore dolore eu sit nulla fugiat. Qui ut nisi ex qui elit. Quis id exercitation aute do laboris dolor laboris. Laborum dolore dolore fugiat voluptate et ad consequat consectetur qui voluptate pariatur voluptate adipisicing consectetur. Ullamco labore ex enim deserunt cupidatat id nulla. Mollit amet sint aliqua magna officia. Proident exercitation adipisicing quis occaecat nostrud elit sunt eiusmod.",
+    "Description2": "Laborum ipsum commodo ut cupidatat duis ullamco velit. Enim esse voluptate ipsum duis aliquip in fugiat occaecat eiusmod officia elit. Elit non ipsum tempor culpa mollit sunt quis et elit. Fugiat nulla laborum anim do nulla occaecat officia veniam esse commodo et et. Enim et consequat incididunt non veniam ipsum. Nisi ex ad commodo velit anim officia sit ullamco est aliquip anim velit ex consectetur.",
+    "Description3": "Esse mollit ullamco ipsum aliqua excepteur adipisicing sit esse tempor do duis enim. Sunt Lorem non ipsum consequat exercitation ad Lorem proident. Elit ex tempor Lorem mollit enim enim aute nulla esse qui. Commodo adipisicing occaecat cupidatat esse occaecat. Nostrud laborum do mollit elit. Enim sunt sint eiusmod elit aliqua in deserunt nostrud adipisicing labore id aliqua.",
+    "Description4": "Velit occaecat ad quis labore consequat. Ipsum id laboris esse exercitation dolore aliquip eiusmod. Consectetur qui elit dolore culpa ad Lorem enim. Ipsum nisi non voluptate et aute. Minim nisi magna adipisicing ullamco incididunt incididunt nisi aliqua cillum. Veniam commodo eu ipsum dolor aute.",
+    "Status": "черновик",
+    "OwnerId": 28,
+    "AuthorId": 55,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 12
+      },
+      {
+        "CoownerId": 11
+      },
+      {
+        "CoownerId": 10
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 23,
+        "DateResult": "2018-02-23",
+        "UserId": 45,
+        "Result": "доработка РК",
+        "Comment": "Occaecat deserunt minim fugiat tempor nostrud magna sint qui."
+      }
+    ],
+    "DateRealisation": "2018-02-23",
+    "DateChange": "2018-02-23",
+    "Description1": "Amet minim irure sunt est ex. Ut est labore reprehenderit occaecat et. Occaecat ullamco velit amet do est eu qui sunt dolor reprehenderit. Non ipsum consectetur exercitation velit. Pariatur aute nostrud exercitation ut incididunt officia dolor non.",
+    "Description2": "Veniam non dolor cupidatat adipisicing adipisicing nisi amet ex ut minim. Deserunt adipisicing pariatur laboris culpa minim dolor culpa mollit esse. Et dolore voluptate aute esse eu non nulla.",
+    "Description3": "Sunt nulla nulla aute consequat do magna Lorem. Laboris consequat ipsum et nostrud ipsum velit do minim do sunt. Velit non do enim mollit incididunt nostrud voluptate commodo exercitation fugiat aliquip elit ad. Amet ut aute fugiat dolore.",
+    "Description4": "Proident incididunt ut minim labore fugiat exercitation ea ex deserunt do laboris nisi aute ut. Commodo sint fugiat irure ullamco aliquip. Et cillum irure ad incididunt ad veniam magna cupidatat.",
+    "Status": "доработка РК",
+    "OwnerId": 23,
+    "AuthorId": 45,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 6
+      },
+      {
+        "CoownerId": 14
+      },
+      {
+        "CoownerId": 17
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 18,
+        "DateResult": "2018-03-26",
+        "UserId": 35,
+        "Result": "согласование",
+        "Comment": "Amet laborum irure id sunt mollit elit labore qui aute nulla."
+      }
+    ],
+    "DateRealisation": "2018-03-26",
+    "DateChange": "2018-03-26",
+    "Description1": "Cillum amet consequat ullamco elit labore deserunt. Exercitation mollit tempor do ex quis eiusmod ad quis id nulla anim dolor laborum. Adipisicing deserunt do cillum nisi ad consectetur ullamco ea ullamco enim.",
+    "Description2": "Id amet amet nostrud nulla laboris consectetur mollit ullamco excepteur minim. Laborum non cillum incididunt magna ut veniam officia in duis occaecat voluptate aliqua. Tempor excepteur proident culpa ea ex ad deserunt magna occaecat. Laborum amet id laborum et aute magna. Do ut labore aute mollit.",
+    "Description3": "Amet voluptate consectetur anim dolor exercitation quis cupidatat ex cupidatat elit est. Laboris sit veniam exercitation eu non reprehenderit. Ullamco commodo magna ad nostrud et irure commodo et deserunt cillum. Adipisicing nostrud consectetur ullamco id nisi eiusmod in. Aute sit aliquip reprehenderit enim deserunt nulla nostrud excepteur aute. Officia excepteur sit et voluptate anim. Labore labore non aliquip sint ullamco ullamco qui aute magna enim amet.",
+    "Description4": "Sit excepteur irure labore minim quis quis laboris consequat cupidatat proident. Anim enim eiusmod officia ad duis tempor fugiat aliquip occaecat aute adipisicing anim. Pariatur est non ea sunt incididunt proident tempor deserunt amet elit. Occaecat mollit do consectetur sint aliquip.",
+    "Status": "согласование",
+    "OwnerId": 18,
+    "AuthorId": 35,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 4
+      },
+      {
+        "CoownerId": 12
+      },
+      {
+        "CoownerId": 23
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 13,
+        "DateResult": "2018-04-27",
+        "UserId": 25,
+        "Result": "доработка РК",
+        "Comment": "Aliqua culpa ipsum tempor non."
+      }
+    ],
+    "DateRealisation": "2018-04-27",
+    "DateChange": "2018-04-27",
+    "Description1": "In Lorem sit proident laboris laborum qui nostrud in reprehenderit consectetur magna reprehenderit. Et amet eiusmod nostrud et. Nostrud culpa eu sit qui veniam est. Duis eiusmod ea amet commodo mollit veniam nisi magna incididunt non. Occaecat ea exercitation incididunt officia Lorem ipsum aute deserunt mollit tempor duis adipisicing et qui.",
+    "Description2": "Sit aliqua do nostrud magna Lorem tempor irure et mollit. Fugiat sint labore tempor duis commodo sit consectetur ad laborum deserunt tempor do. Est excepteur voluptate sit officia. Est excepteur incididunt officia labore. Incididunt id fugiat sint enim eiusmod ullamco Lorem elit enim incididunt pariatur duis duis enim. Fugiat amet in reprehenderit anim elit deserunt eiusmod nisi amet reprehenderit esse.",
+    "Description3": "Culpa aliquip adipisicing non labore deserunt laboris. Qui quis aute pariatur elit culpa qui amet voluptate quis. Duis labore officia quis ad veniam ullamco excepteur duis sint veniam laboris ipsum magna. In proident ea ad pariatur ipsum anim cupidatat proident labore eu. Ad consequat incididunt duis tempor deserunt ipsum qui culpa eu.",
+    "Description4": "Qui occaecat irure aliqua labore dolore est in quis quis sunt. Ullamco ut ad ipsum id id est nostrud mollit ullamco occaecat consequat mollit qui. Consectetur aute minim pariatur magna ea. Consequat aute reprehenderit nulla consectetur cupidatat officia cupidatat est in ullamco ea reprehenderit sunt ea. Eu irure tempor reprehenderit enim ex. Eu dolore in veniam aliqua magna mollit in ipsum magna cupidatat irure proident fugiat est.",
+    "Status": "доработка РК",
+    "OwnerId": 13,
+    "AuthorId": 25,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 27
+      },
+      {
+        "CoownerId": 26
+      },
+      {
+        "CoownerId": 4
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 12,
+        "DateResult": "2018-11-24",
+        "UserId": 23,
+        "Result": "доработка РК",
+        "Comment": "Proident ipsum laborum id amet commodo id cupidatat cillum et labore."
+      }
+    ],
+    "DateRealisation": "2018-11-24",
+    "DateChange": "2018-11-24",
+    "Description1": "Anim aute nisi laboris tempor laboris occaecat anim voluptate dolor adipisicing commodo ipsum officia. Consequat nisi ullamco eiusmod elit in mollit qui. Quis nulla officia enim deserunt mollit dolore nisi. Esse occaecat quis consectetur ea id consequat nulla anim in amet dolor et mollit. Eu ipsum consectetur cupidatat ullamco dolor nulla enim. Irure eu duis officia proident non.",
+    "Description2": "Tempor reprehenderit labore non laborum quis duis. Occaecat labore nisi magna ea cillum exercitation deserunt. Officia dolore aute enim incididunt cillum ex occaecat in. Reprehenderit Lorem et mollit elit magna sint aliqua elit ad qui. Consequat exercitation dolor ex velit veniam fugiat nostrud ut id nisi irure. Laborum id irure nisi sint anim excepteur in proident. Aute reprehenderit aliquip adipisicing dolor ullamco occaecat culpa duis nostrud.",
+    "Description3": "Enim velit nostrud magna eu aliquip veniam duis laborum ullamco fugiat excepteur fugiat duis. Cupidatat occaecat ullamco amet veniam irure consequat id aliquip aute exercitation. Esse dolor dolore anim consectetur voluptate in anim magna amet nisi qui.",
+    "Description4": "Id irure eiusmod excepteur pariatur officia officia exercitation culpa fugiat reprehenderit. Elit excepteur eu quis ex esse quis nostrud. Excepteur dolore irure incididunt ullamco aliqua exercitation sint sit esse qui pariatur. Pariatur exercitation dolore cillum do sit veniam ex adipisicing velit ullamco. In officia exercitation laborum occaecat officia duis eu et. Elit magna aute occaecat aliqua.",
+    "Status": "доработка РК",
+    "OwnerId": 12,
+    "AuthorId": 23,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 25
+      },
+      {
+        "CoownerId": 20
+      },
+      {
+        "CoownerId": 26
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 14,
+        "DateResult": "2018-07-17",
+        "UserId": 27,
+        "Result": "проверка",
+        "Comment": "Aliqua consequat aliquip laboris id officia."
+      }
+    ],
+    "DateRealisation": "2018-07-17",
+    "DateChange": "2018-07-17",
+    "Description1": "In veniam esse in excepteur nulla duis est sit commodo pariatur cupidatat cillum ut. Enim dolore ut occaecat veniam pariatur veniam ipsum. Eu irure consequat magna ex occaecat exercitation magna. Qui duis non nulla cupidatat cupidatat irure ullamco eiusmod.",
+    "Description2": "Incididunt occaecat dolor adipisicing irure dolor qui Lorem cillum eiusmod eu consequat magna. Lorem ipsum consequat dolore ullamco mollit tempor tempor qui qui. Incididunt aute in cillum ea occaecat consectetur quis tempor adipisicing labore.",
+    "Description3": "Nulla sint aliquip cupidatat duis aliqua voluptate in dolore dolor magna deserunt eu. Duis incididunt culpa ullamco et adipisicing. Tempor aliqua exercitation sint velit ex.",
+    "Description4": "Nulla duis aliqua eiusmod velit sint velit consectetur aute deserunt aliqua ipsum laboris deserunt. Consequat cillum et voluptate ea. Laborum ipsum commodo duis aliquip. Officia eiusmod ea ea sunt veniam id mollit pariatur quis voluptate eu commodo.",
+    "Status": "проверка",
+    "OwnerId": 14,
+    "AuthorId": 27,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 15
+      },
+      {
+        "CoownerId": 4
+      },
+      {
+        "CoownerId": 19
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 22,
+        "DateResult": "2018-10-12",
+        "UserId": 43,
+        "Result": "проверка",
+        "Comment": "Duis officia qui cillum ullamco ad dolor proident esse irure deserunt pariatur elit qui fugiat."
+      }
+    ],
+    "DateRealisation": "2018-10-12",
+    "DateChange": "2018-10-12",
+    "Description1": "Commodo minim amet commodo voluptate velit dolor ea commodo do eiusmod culpa. Sit commodo excepteur consectetur nostrud consectetur incididunt ex labore. Ipsum culpa est esse laboris id id aliquip anim ullamco. Sint enim occaecat duis voluptate cillum minim qui adipisicing incididunt sit magna cupidatat. Aute eu eu laboris ex nostrud eiusmod ut qui eu aliquip minim incididunt. Nisi commodo amet quis exercitation et proident occaecat irure.",
+    "Description2": "Exercitation consequat ut non non. Aliqua ex commodo reprehenderit occaecat do anim voluptate elit eu dolore ex ex. In aliqua fugiat amet occaecat amet tempor laborum quis fugiat. Et consectetur labore est velit consequat cupidatat minim elit consequat veniam mollit et laboris proident.",
+    "Description3": "Nulla eiusmod do nostrud consectetur sint cupidatat velit ut. Dolor ullamco eiusmod velit et sit ullamco qui incididunt nostrud. Laboris culpa minim veniam tempor eu. Duis ea occaecat esse minim occaecat exercitation eiusmod in est veniam. Anim eiusmod nulla elit reprehenderit cillum ut elit fugiat cillum pariatur proident aute. Aliquip laboris ullamco ad ipsum eu aute sint minim.",
+    "Description4": "Sint quis occaecat duis incididunt non fugiat labore minim eiusmod magna consequat. Enim aute dolore adipisicing quis aute ea adipisicing officia fugiat mollit labore sint sit. Esse duis in commodo ad id nisi ullamco voluptate enim. Qui aliquip Lorem aute consequat id quis ad tempor.",
+    "Status": "проверка",
+    "OwnerId": 22,
+    "AuthorId": 43,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 23
+      },
+      {
+        "CoownerId": 8
+      },
+      {
+        "CoownerId": 15
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 7,
+        "DateResult": "2018-08-28",
+        "UserId": 13,
+        "Result": "черновик",
+        "Comment": "Nulla culpa elit labore ad cillum."
+      }
+    ],
+    "DateRealisation": "2018-08-28",
+    "DateChange": "2018-08-28",
+    "Description1": "Eiusmod aute id cillum exercitation irure aliquip est culpa ea culpa cillum adipisicing anim. Tempor exercitation adipisicing id deserunt nostrud id cillum sit do tempor in. Voluptate reprehenderit quis veniam ex laboris elit nisi in minim elit.",
+    "Description2": "Officia culpa occaecat cillum adipisicing aliquip ut. Sint cillum mollit occaecat esse nostrud labore officia. Ea ea ipsum voluptate et laboris aute veniam eu aute ullamco nisi elit ad tempor. Labore incididunt reprehenderit aute dolor tempor magna laboris aute cupidatat est consequat Lorem enim. Aute ad laborum reprehenderit culpa esse Lorem proident excepteur deserunt culpa elit veniam aute.",
+    "Description3": "Do mollit cupidatat veniam sunt nostrud est duis cupidatat velit cillum elit aliquip. Voluptate est amet mollit velit elit minim occaecat ullamco aliqua do. Consectetur velit est anim amet.",
+    "Description4": "Consectetur commodo tempor amet nisi laborum non commodo nulla eu ex cupidatat. Ut qui aute labore minim eiusmod id adipisicing esse reprehenderit sunt cupidatat sit veniam sunt. Id veniam commodo consectetur elit cupidatat reprehenderit amet in.",
+    "Status": "черновик",
+    "OwnerId": 7,
+    "AuthorId": 13,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 10
+      },
+      {
+        "CoownerId": 11
+      },
+      {
+        "CoownerId": 28
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 17,
+        "DateResult": "2018-09-21",
+        "UserId": 33,
+        "Result": "проверка",
+        "Comment": "Nostrud in duis officia duis esse labore consectetur veniam."
+      }
+    ],
+    "DateRealisation": "2018-09-21",
+    "DateChange": "2018-09-21",
+    "Description1": "Tempor labore fugiat in laboris Lorem est commodo et laborum. Ut deserunt ad sunt non minim esse sint elit officia et. Nisi sit eu sunt proident non aliquip proident amet excepteur consectetur consectetur officia veniam. Velit qui nisi pariatur velit. Ad minim sit esse non. Ex deserunt ipsum et labore veniam occaecat reprehenderit cupidatat proident amet nostrud in labore.",
+    "Description2": "Aliqua deserunt elit Lorem sunt enim esse aute est est tempor sunt incididunt occaecat enim. Reprehenderit qui nostrud nostrud veniam consectetur ad id nostrud. Proident laboris irure excepteur Lorem occaecat occaecat ad eu culpa sint est nisi. Consequat dolor incididunt amet consectetur voluptate nisi et laboris sint. Aute ipsum est ea adipisicing sint officia dolore ipsum ut excepteur dolore. Laborum id veniam velit amet consectetur culpa ea amet. Ex veniam deserunt esse voluptate occaecat consectetur amet sunt excepteur.",
+    "Description3": "Exercitation eiusmod qui ex laborum eiusmod nostrud. Dolor mollit dolor incididunt in et occaecat duis Lorem proident. Irure ut id dolor mollit ipsum duis sunt sunt. Deserunt magna ea aliqua laborum pariatur proident reprehenderit velit. Magna Lorem cupidatat et occaecat laborum voluptate aliqua aliquip pariatur id. Incididunt esse Lorem quis esse ex sint nulla laborum ex.",
+    "Description4": "Lorem magna veniam ut cupidatat irure occaecat laborum adipisicing eu aliqua tempor qui dolor. Nostrud sit culpa in reprehenderit est. Irure fugiat qui anim consectetur veniam enim laboris magna amet ad reprehenderit mollit velit. Adipisicing ullamco duis deserunt fugiat ut cupidatat anim cillum. Enim non ipsum quis non non sint irure enim incididunt adipisicing. Lorem labore excepteur et ea est minim dolor anim. Fugiat enim cupidatat minim veniam dolore.",
+    "Status": "проверка",
+    "OwnerId": 17,
+    "AuthorId": 33,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 12
+      },
+      {
+        "CoownerId": 4
+      },
+      {
+        "CoownerId": 10
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 22,
+        "DateResult": "2018-01-27",
+        "UserId": 43,
+        "Result": "согласование",
+        "Comment": "Magna culpa culpa mollit do cupidatat nostrud consectetur consectetur labore reprehenderit."
+      }
+    ],
+    "DateRealisation": "2018-01-27",
+    "DateChange": "2018-01-27",
+    "Description1": "Mollit irure eu sint ullamco qui reprehenderit aute nostrud exercitation commodo ad labore anim ullamco. Duis eu dolor nulla est fugiat dolore occaecat aliqua incididunt ullamco veniam velit. Exercitation Lorem dolore veniam et amet. Aliquip eiusmod do anim sit deserunt excepteur dolor eu esse ut. Culpa duis officia quis nulla adipisicing eu est.",
+    "Description2": "Adipisicing occaecat laborum consequat consectetur incididunt in consequat elit enim Lorem culpa labore do sit. Ea mollit anim dolor cillum labore qui in. Ut ullamco ea do ut labore reprehenderit aliquip. Aliquip deserunt veniam mollit cupidatat ullamco incididunt.",
+    "Description3": "Ipsum anim sit eu pariatur nostrud voluptate excepteur sunt ipsum consectetur. Consequat et aliquip veniam occaecat aute elit ex laboris irure Lorem labore consequat anim. Adipisicing laboris dolore qui cillum. Consequat id ipsum laborum deserunt consequat proident eu irure proident qui mollit. Dolore culpa in consectetur aliquip aliqua eiusmod.",
+    "Description4": "Amet velit amet dolor aliqua occaecat. Ad nisi Lorem nostrud consequat. Dolor nostrud et duis ullamco exercitation ullamco sunt reprehenderit fugiat fugiat. Voluptate reprehenderit consequat aliqua ad ipsum veniam mollit quis velit. Laboris anim pariatur dolor nulla minim incididunt labore id culpa. Commodo laborum deserunt commodo incididunt et deserunt aliqua quis proident quis exercitation anim excepteur nisi. Velit tempor deserunt adipisicing cillum laborum do et proident cillum qui id irure.",
+    "Status": "согласование",
+    "OwnerId": 22,
+    "AuthorId": 43,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 14
+      },
+      {
+        "CoownerId": 3
+      },
+      {
+        "CoownerId": 24
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 19,
+        "DateResult": "2018-04-11",
+        "UserId": 37,
+        "Result": "согласование",
+        "Comment": "Eiusmod reprehenderit fugiat laboris reprehenderit tempor."
+      }
+    ],
+    "DateRealisation": "2018-04-11",
+    "DateChange": "2018-04-11",
+    "Description1": "Cillum mollit ut officia ea ex nostrud pariatur. Fugiat ea cupidatat id aliquip ad veniam incididunt aliqua esse. Incididunt magna nisi quis officia ex duis laboris eiusmod tempor qui culpa. Occaecat minim excepteur sunt amet enim cillum. Aliquip officia sit do sit nostrud dolore est nostrud. Quis nostrud id minim cupidatat. Enim non occaecat ad qui ex est est nisi ex ullamco enim.",
+    "Description2": "Laborum do anim laborum proident eiusmod aute deserunt aute quis excepteur ipsum. Officia commodo ea deserunt duis exercitation fugiat pariatur anim consectetur officia. Voluptate in do duis nulla officia exercitation duis pariatur fugiat sit exercitation velit esse commodo. Ut nulla dolore nisi ullamco ipsum id est sit duis. Est minim laborum tempor Lorem laboris laboris reprehenderit sint in duis id. Esse excepteur non cillum dolor pariatur nisi excepteur cupidatat ullamco enim ut nulla. Qui laboris in consectetur laborum officia irure consectetur velit cupidatat.",
+    "Description3": "Sit ad velit aliquip do laboris qui est aliqua incididunt magna aliqua aliquip eu officia. Fugiat deserunt excepteur amet deserunt Lorem aute minim culpa non culpa consequat ut nulla mollit. Id qui sunt excepteur minim consequat elit incididunt occaecat pariatur minim laborum. Ad occaecat adipisicing cupidatat proident officia commodo sint in.",
+    "Description4": "Lorem ad est dolore nisi aliqua. Sunt labore voluptate laboris aliqua exercitation commodo veniam culpa enim quis nulla. Eiusmod id elit enim quis in ipsum dolore in officia qui exercitation sunt irure. Magna incididunt cillum id labore ut adipisicing anim dolore reprehenderit deserunt amet pariatur. Do non sint Lorem aliqua. Aliquip consequat fugiat adipisicing id sit irure Lorem cillum nulla est ea.",
+    "Status": "согласование",
+    "OwnerId": 19,
+    "AuthorId": 37,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 4
+      },
+      {
+        "CoownerId": 18
+      },
+      {
+        "CoownerId": 25
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 17,
+        "DateResult": "2018-08-13",
+        "UserId": 33,
+        "Result": "доработка РК",
+        "Comment": "Ex amet magna anim nisi deserunt eu anim sint velit adipisicing eu pariatur."
+      }
+    ],
+    "DateRealisation": "2018-08-13",
+    "DateChange": "2018-08-13",
+    "Description1": "Cupidatat cupidatat commodo irure in eiusmod cillum. Veniam labore esse do mollit ut qui eiusmod. Do tempor laboris consectetur occaecat incididunt cillum nisi incididunt laboris aliquip sunt excepteur elit.",
+    "Description2": "Dolor aute do pariatur ad nisi nulla velit nostrud esse voluptate quis. Do culpa sunt ut dolore id fugiat ea velit dolor excepteur eu. Aliqua irure exercitation eiusmod excepteur proident elit Lorem in ad aute commodo non reprehenderit exercitation. Eu in nostrud deserunt pariatur eu. Labore qui pariatur ullamco sit. Laborum cillum consequat exercitation irure exercitation reprehenderit consectetur et exercitation velit sunt.",
+    "Description3": "Nulla duis proident eiusmod amet nisi commodo esse commodo sit. Aliqua laboris ipsum sint amet irure nulla incididunt eu ea laboris. Non ea eu sint sint sit voluptate consectetur minim consectetur esse officia. Reprehenderit mollit voluptate eu nostrud incididunt dolore. Sit exercitation sunt ullamco elit cupidatat quis pariatur tempor adipisicing consequat irure est.",
+    "Description4": "In veniam aliquip culpa veniam ipsum cupidatat est. Amet cillum adipisicing duis irure minim laboris consectetur fugiat ipsum. Nulla eu cupidatat in consequat ipsum labore magna ea cillum Lorem. Commodo velit mollit dolor reprehenderit esse in eiusmod sit. Ea ipsum labore sint commodo.",
+    "Status": "доработка РК",
+    "OwnerId": 17,
+    "AuthorId": 33,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 1
+      },
+      {
+        "CoownerId": 15
+      },
+      {
+        "CoownerId": 28
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 13,
+        "DateResult": "2018-08-27",
+        "UserId": 25,
+        "Result": "проверка",
+        "Comment": "Enim qui nulla ex ea pariatur ullamco."
+      }
+    ],
+    "DateRealisation": "2018-08-27",
+    "DateChange": "2018-08-27",
+    "Description1": "Laborum duis reprehenderit fugiat mollit labore cillum mollit. Voluptate esse labore ea ullamco veniam eu amet esse exercitation sunt irure. Ea in duis ut eiusmod nisi in laborum sint consectetur id ipsum sint ut. Velit ut labore cupidatat nostrud adipisicing velit nisi aliqua amet eiusmod dolor. Voluptate eu anim anim irure. Veniam cupidatat nulla Lorem exercitation.",
+    "Description2": "Et deserunt Lorem consectetur voluptate. Mollit eiusmod aute culpa velit nisi nisi excepteur pariatur officia amet proident. Id eiusmod in deserunt incididunt ea ipsum nulla sit in nostrud nostrud cupidatat. Eiusmod nisi cupidatat fugiat magna non laboris cupidatat aliqua consectetur aute ex. Labore sit eu nisi labore esse. Nisi aute irure occaecat in nulla elit veniam officia adipisicing reprehenderit. Lorem ex amet occaecat cillum dolor irure excepteur reprehenderit enim mollit Lorem voluptate.",
+    "Description3": "Velit mollit laboris consectetur eu nisi esse anim nostrud. Qui anim est nostrud Lorem laborum id et incididunt non. Officia veniam quis aliquip mollit velit culpa incididunt laboris aliqua reprehenderit et labore laboris mollit. Sunt occaecat sunt mollit laborum exercitation pariatur occaecat laboris qui anim nulla voluptate tempor deserunt. Non ea mollit occaecat aute elit dolore eu in proident eiusmod excepteur consectetur dolor et.",
+    "Description4": "Sit esse culpa sit ut in officia minim sit nulla anim. Eu minim consequat tempor laboris commodo labore Lorem ea excepteur culpa. Velit cupidatat qui velit adipisicing magna. Nisi dolore non enim ea officia enim esse voluptate officia est. Laboris ea incididunt tempor quis eiusmod ea nulla amet eu voluptate. Do ut ad sit proident. Qui duis pariatur nulla id consequat elit pariatur aliquip proident ex.",
+    "Status": "проверка",
+    "OwnerId": 13,
+    "AuthorId": 25,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 20
+      },
+      {
+        "CoownerId": 11
+      },
+      {
+        "CoownerId": 1
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 23,
+        "DateResult": "2018-09-17",
+        "UserId": 45,
+        "Result": "согласование",
+        "Comment": "Quis do excepteur magna irure."
+      }
+    ],
+    "DateRealisation": "2018-09-17",
+    "DateChange": "2018-09-17",
+    "Description1": "Velit ullamco cupidatat commodo cillum magna duis. Dolor sunt sit veniam duis et nostrud occaecat tempor aliquip veniam sint elit. Ad aliquip dolor fugiat amet ex ullamco est. Lorem quis consequat dolor voluptate dolor aliquip reprehenderit est sunt incididunt laboris labore velit culpa.",
+    "Description2": "Sit tempor culpa elit voluptate sit. Ipsum labore esse proident pariatur mollit irure tempor. Irure nostrud tempor eiusmod ex aliquip in esse aliquip aliqua cillum voluptate ipsum. Ut in ipsum dolor consectetur amet exercitation est voluptate dolor reprehenderit dolore cupidatat cillum ex. Est ipsum consequat esse adipisicing voluptate exercitation deserunt elit tempor.",
+    "Description3": "Velit reprehenderit culpa laboris enim deserunt ipsum mollit anim ut elit. Aute ex dolor cupidatat nisi non pariatur laboris Lorem dolor velit magna incididunt. Laborum reprehenderit id proident velit voluptate duis culpa.",
+    "Description4": "Veniam aute reprehenderit labore nulla tempor reprehenderit est dolore occaecat id. Excepteur dolore fugiat magna culpa culpa ex ullamco. Consectetur aliquip irure velit ex tempor in dolore elit enim adipisicing esse. Sunt enim nisi excepteur ad amet. Voluptate proident culpa dolore elit. Consectetur pariatur adipisicing pariatur commodo et enim proident cupidatat est. Est officia officia cillum incididunt nisi reprehenderit duis nostrud tempor ex laborum in do.",
+    "Status": "согласование",
+    "OwnerId": 23,
+    "AuthorId": 45,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 15
+      },
+      {
+        "CoownerId": 16
+      },
+      {
+        "CoownerId": 26
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 11,
+        "DateResult": "2018-10-14",
+        "UserId": 21,
+        "Result": "черновик",
+        "Comment": "Laborum dolore minim cillum enim."
+      }
+    ],
+    "DateRealisation": "2018-10-14",
+    "DateChange": "2018-10-14",
+    "Description1": "Lorem laborum nostrud duis aliquip cillum ipsum proident et proident labore sunt. Est nisi duis in aliquip ipsum ex tempor laborum proident non magna. Nisi sit et excepteur anim. Veniam ipsum do dolor voluptate consectetur proident exercitation. Enim occaecat nulla Lorem mollit aliqua minim aliqua deserunt irure. Pariatur consectetur magna ut labore culpa pariatur qui pariatur reprehenderit ipsum aute anim.",
+    "Description2": "Eu labore fugiat sit reprehenderit reprehenderit anim ullamco laboris. Nulla excepteur adipisicing minim nisi aliqua. Tempor eiusmod amet excepteur ad veniam cillum cillum consequat reprehenderit dolore qui aute. Proident veniam nulla sit pariatur duis velit dolore esse dolore aute do. Proident mollit eu esse reprehenderit. Ex ex velit aliqua sint nostrud elit labore laboris nisi.",
+    "Description3": "Veniam reprehenderit non culpa aliquip eu sunt pariatur proident anim commodo irure non. Cupidatat duis aliqua adipisicing ipsum. Deserunt exercitation ex aliqua minim non occaecat quis tempor est minim occaecat aliqua in.",
+    "Description4": "Fugiat minim laborum adipisicing duis ea proident occaecat voluptate ipsum eu commodo nulla anim. Fugiat cupidatat veniam voluptate velit eiusmod labore irure id esse labore ea sint irure officia. Ad duis laborum eiusmod velit proident amet. Amet anim officia laborum voluptate culpa dolore Lorem velit labore eu. Reprehenderit dolor exercitation aute ad esse. Culpa nostrud enim magna esse fugiat qui ut in. Fugiat nostrud minim proident ex duis pariatur voluptate sunt.",
+    "Status": "черновик",
+    "OwnerId": 11,
+    "AuthorId": 21,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 1
+      },
+      {
+        "CoownerId": 9
+      },
+      {
+        "CoownerId": 4
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 9,
+        "DateResult": "2018-04-12",
+        "UserId": 17,
+        "Result": "доработка РМ",
+        "Comment": "Aliquip commodo culpa officia duis nisi deserunt nulla."
+      }
+    ],
+    "DateRealisation": "2018-04-12",
+    "DateChange": "2018-04-12",
+    "Description1": "Id exercitation duis consequat culpa mollit deserunt do duis. Aliqua amet do veniam esse voluptate culpa incididunt aliqua minim. Minim laboris voluptate tempor irure proident ut ea enim esse in dolor.",
+    "Description2": "Exercitation do consequat aliqua aliqua exercitation laboris enim id ea consequat adipisicing qui. Voluptate sit consequat non tempor aliquip laborum et esse et occaecat ullamco ipsum. Do elit cillum eiusmod dolor esse velit. Do eu commodo commodo anim dolore deserunt ullamco quis.",
+    "Description3": "Velit minim cillum sit quis aliquip. Deserunt mollit magna ullamco adipisicing qui. Nostrud proident est sit eu. Aliqua enim labore mollit dolore voluptate labore aute minim adipisicing ipsum consequat id.",
+    "Description4": "Aute veniam mollit consectetur anim mollit consequat tempor aliquip excepteur. Eiusmod nisi eiusmod esse labore duis non fugiat elit pariatur qui culpa duis est excepteur. Culpa aliqua nulla veniam do aute ut. Dolore quis est voluptate qui voluptate magna minim et cillum. Nostrud Lorem laboris non dolor Lorem in elit consectetur id officia amet Lorem deserunt proident. Laboris sunt sunt tempor duis consequat excepteur dolor et duis enim mollit ipsum cillum irure.",
+    "Status": "доработка РМ",
+    "OwnerId": 9,
+    "AuthorId": 17,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 27
+      },
+      {
+        "CoownerId": 13
+      },
+      {
+        "CoownerId": 7
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 9,
+        "DateResult": "2018-09-03",
+        "UserId": 17,
+        "Result": "доработка РМ",
+        "Comment": "Ipsum commodo aute sint officia cillum elit tempor labore elit do."
+      }
+    ],
+    "DateRealisation": "2018-09-03",
+    "DateChange": "2018-09-03",
+    "Description1": "Eiusmod proident id commodo ullamco. Dolore veniam laborum excepteur cupidatat fugiat fugiat Lorem ut. Anim duis culpa nisi irure deserunt do ipsum qui qui ullamco occaecat duis aliquip duis. Culpa incididunt et dolore officia ex cillum id consectetur.",
+    "Description2": "Voluptate pariatur irure quis reprehenderit. Sunt proident magna cupidatat aute est enim. Consequat aliquip exercitation adipisicing consectetur ad nulla irure sit ex. Laborum et dolor duis ipsum adipisicing cupidatat veniam dolor qui enim proident laborum. Nostrud Lorem ad adipisicing laboris commodo sit proident. Voluptate cupidatat nostrud aliqua adipisicing non sunt aliquip ipsum esse ut minim. Aute duis duis excepteur est minim eiusmod qui consequat exercitation.",
+    "Description3": "Sint adipisicing nulla non consequat eiusmod. Dolor anim ullamco non velit laborum sint. Irure Lorem sunt qui adipisicing proident velit. Id cillum adipisicing sunt ut elit enim amet dolor ad. Nostrud aliqua consectetur labore nostrud do laboris aliquip voluptate cupidatat eu aliqua aute occaecat occaecat. Commodo culpa magna dolor tempor consequat ea elit mollit. Cupidatat anim ut magna excepteur labore cillum.",
+    "Description4": "Ad elit qui sint consequat non dolore incididunt tempor consequat. Veniam et elit sint ad elit nostrud et anim ullamco eu id. Est ut ut esse tempor qui sunt. Commodo mollit nulla ad culpa quis laboris officia ad reprehenderit.",
+    "Status": "доработка РМ",
+    "OwnerId": 9,
+    "AuthorId": 17,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 1
+      },
+      {
+        "CoownerId": 12
+      },
+      {
+        "CoownerId": 18
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 2,
+        "DateResult": "2018-06-25",
+        "UserId": 3,
+        "Result": "проверка",
+        "Comment": "Ex amet magna non qui id nisi proident enim do laborum aute commodo veniam."
+      }
+    ],
+    "DateRealisation": "2018-06-25",
+    "DateChange": "2018-06-25",
+    "Description1": "Id aliqua mollit do incididunt nulla occaecat nostrud voluptate aliqua aliqua esse. Qui aliqua dolor pariatur adipisicing magna fugiat. Esse proident dolor enim laborum tempor voluptate cillum nisi voluptate. Ipsum Lorem mollit pariatur Lorem minim. Adipisicing sit laboris est deserunt.",
+    "Description2": "Aute anim ullamco proident irure voluptate Lorem officia deserunt esse ex. Eu cillum et et id. Sit excepteur ea ullamco consequat esse occaecat ut magna ad reprehenderit est fugiat Lorem tempor. Reprehenderit cupidatat velit culpa aliquip ad qui enim dolore aute aute. Magna occaecat nulla minim do culpa consectetur laborum incididunt do fugiat aliquip excepteur sint excepteur.",
+    "Description3": "Magna nulla deserunt cillum in nulla non nisi duis deserunt officia ut pariatur occaecat dolor. Nostrud quis nulla elit culpa velit sit culpa laboris ea ad ex eiusmod et. Proident in incididunt adipisicing enim est anim deserunt ullamco dolore cupidatat deserunt. Magna officia dolore ullamco qui aute velit consequat esse nulla mollit dolore. Ut minim adipisicing duis aliquip adipisicing reprehenderit ipsum consectetur quis fugiat adipisicing proident tempor.",
+    "Description4": "Non laborum dolore qui cillum fugiat quis enim ad qui. Cillum culpa ea deserunt ad id id velit elit nisi sit veniam labore id. Irure mollit aute commodo nulla labore duis dolor pariatur magna aute cillum do id nostrud.",
+    "Status": "проверка",
+    "OwnerId": 2,
+    "AuthorId": 3,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 28
+      },
+      {
+        "CoownerId": 5
+      },
+      {
+        "CoownerId": 10
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 1,
+        "DateResult": "2018-04-30",
+        "UserId": 1,
+        "Result": "доработка РК",
+        "Comment": "Anim duis ipsum eu occaecat non proident consequat."
+      }
+    ],
+    "DateRealisation": "2018-04-30",
+    "DateChange": "2018-04-30",
+    "Description1": "Esse velit do ex minim id incididunt et do. Aliqua sint quis velit esse nulla. Nostrud do velit consectetur commodo commodo.",
+    "Description2": "Deserunt deserunt proident labore veniam. Elit enim ad esse et dolor qui incididunt exercitation qui occaecat voluptate laboris cupidatat. Ea tempor dolor sit dolore deserunt excepteur consectetur mollit aliquip laboris reprehenderit officia dolor aliquip. Occaecat nulla sint mollit occaecat incididunt ea laborum velit velit minim laborum cillum. Exercitation qui sunt eiusmod amet. Cillum ex reprehenderit qui enim sit cupidatat sint excepteur ea consectetur incididunt ullamco. Consequat enim aliqua ut sint nulla et irure adipisicing mollit.",
+    "Description3": "Irure Lorem eu voluptate cupidatat anim cupidatat quis. Voluptate culpa qui nostrud incididunt sit Lorem magna pariatur tempor enim aute ea irure. Ullamco aliqua deserunt et aliqua veniam ipsum id sint pariatur. Sunt culpa occaecat aute eiusmod. Incididunt tempor veniam et in nostrud cillum est ipsum elit fugiat est. Culpa est qui duis sunt aliquip exercitation adipisicing cupidatat sit ipsum. Velit do aliquip nostrud non magna duis adipisicing consectetur.",
+    "Description4": "Tempor adipisicing et adipisicing exercitation cupidatat eiusmod. Lorem aute ad incididunt ipsum consectetur nostrud commodo. In excepteur duis incididunt laboris nisi magna ex ipsum duis eu est. Tempor anim ullamco officia proident eu irure aliquip est incididunt ipsum mollit deserunt consectetur consequat. In exercitation sunt commodo in consectetur voluptate ea eu id. Quis consequat adipisicing cillum cupidatat voluptate.",
+    "Status": "доработка РК",
+    "OwnerId": 1,
+    "AuthorId": 1,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 23
+      },
+      {
+        "CoownerId": 10
+      },
+      {
+        "CoownerId": 19
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 10,
+        "DateResult": "2018-01-29",
+        "UserId": 19,
+        "Result": "доработка РК",
+        "Comment": "Aliqua reprehenderit nisi laboris ea ipsum do sunt eiusmod pariatur occaecat consectetur qui in."
+      }
+    ],
+    "DateRealisation": "2018-01-29",
+    "DateChange": "2018-01-29",
+    "Description1": "Cillum in elit et Lorem. Laborum quis sit culpa ea reprehenderit consequat Lorem est et nisi. Adipisicing ullamco incididunt dolore ullamco proident elit elit Lorem exercitation dolore deserunt et. Fugiat nostrud eu deserunt ipsum quis aute pariatur eu reprehenderit. Adipisicing labore magna ipsum consequat aliqua esse elit laborum officia voluptate esse exercitation laborum. Ut quis esse quis magna aliquip in. Amet ad sit id velit pariatur exercitation dolor irure ad.",
+    "Description2": "Non in eiusmod cillum tempor est anim nulla sunt consequat exercitation et. Occaecat consequat eu id occaecat qui adipisicing nisi laborum et occaecat exercitation culpa duis. Ex id nisi non consectetur veniam duis mollit dolore ex. Aliqua et ullamco non dolor velit irure excepteur exercitation nulla cupidatat sunt mollit occaecat mollit. Tempor reprehenderit commodo minim aliquip. Qui excepteur do commodo ullamco veniam aute aliqua fugiat elit tempor cupidatat. Eu quis elit do elit labore qui culpa et.",
+    "Description3": "Occaecat excepteur est qui ullamco ipsum occaecat. Ea enim cupidatat in deserunt et in proident excepteur exercitation ipsum eiusmod. Sit minim anim velit occaecat esse. Ullamco ut id est ea officia mollit aliqua incididunt. Esse veniam laborum labore deserunt deserunt Lorem culpa excepteur duis id quis ex. Incididunt commodo veniam aliquip eu sunt dolor proident tempor do fugiat exercitation Lorem irure.",
+    "Description4": "Occaecat Lorem magna nulla id. Mollit dolore exercitation labore proident id do. Et dolore voluptate laboris est velit aliqua magna. Ut consectetur qui est et pariatur. Nulla commodo aliqua anim magna anim nostrud culpa.",
+    "Status": "доработка РК",
+    "OwnerId": 10,
+    "AuthorId": 19,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 14
+      },
+      {
+        "CoownerId": 19
+      },
+      {
+        "CoownerId": 26
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 9,
+        "DateResult": "2018-09-06",
+        "UserId": 17,
+        "Result": "согласование",
+        "Comment": "Ex minim et et Lorem duis excepteur."
+      }
+    ],
+    "DateRealisation": "2018-09-06",
+    "DateChange": "2018-09-06",
+    "Description1": "Lorem dolore eiusmod ut sint nulla pariatur aute culpa sunt. Velit pariatur deserunt irure sint dolor incididunt deserunt aute minim do. Cupidatat cupidatat ea sunt officia irure tempor ut ullamco in amet ad est pariatur et. Amet nostrud cupidatat exercitation et et reprehenderit occaecat id id sunt pariatur culpa. Sint fugiat minim ipsum voluptate nulla nulla do.",
+    "Description2": "Est ipsum voluptate mollit qui ipsum minim commodo do fugiat deserunt. Irure velit aute laboris dolor Lorem est velit dolore duis esse id esse irure fugiat. Labore ex laboris consequat labore in id. Dolor mollit culpa fugiat in labore duis tempor non culpa aute sit ut.",
+    "Description3": "Quis pariatur ipsum exercitation pariatur incididunt qui aliquip voluptate laborum quis laborum Lorem officia. Nulla et anim consequat elit id eu aliqua tempor aute do excepteur ad dolore consequat. Lorem non pariatur et exercitation ullamco commodo ea.",
+    "Description4": "Dolor exercitation dolore cupidatat aute labore deserunt et deserunt incididunt officia ipsum. Nisi dolore incididunt laborum in esse elit culpa sint anim esse Lorem quis dolore. Minim laborum non consectetur occaecat nisi. Commodo reprehenderit culpa commodo excepteur tempor ullamco aliqua qui.",
+    "Status": "согласование",
+    "OwnerId": 9,
+    "AuthorId": 17,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 13
+      },
+      {
+        "CoownerId": 23
+      },
+      {
+        "CoownerId": 27
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 23,
+        "DateResult": "2018-07-12",
+        "UserId": 45,
+        "Result": "доработка РК",
+        "Comment": "Nulla officia ut do velit duis tempor ad dolore commodo aliqua velit et."
+      }
+    ],
+    "DateRealisation": "2018-07-12",
+    "DateChange": "2018-07-12",
+    "Description1": "Dolor officia sit ex aute nisi mollit ea Lorem reprehenderit. Occaecat tempor est in et Lorem aute consectetur nulla non culpa exercitation nulla ea. Exercitation nisi ullamco adipisicing duis magna ea sit do magna non labore id. Sit mollit cillum ex velit est dolore nostrud pariatur irure nisi.",
+    "Description2": "Sit exercitation irure enim id cillum labore. Reprehenderit ipsum reprehenderit proident quis amet esse aliquip. Tempor in irure quis cillum consectetur commodo cillum ex in consequat irure anim. Quis nostrud proident do ea amet aliqua commodo nisi amet sunt.",
+    "Description3": "Nostrud quis et elit adipisicing officia ex reprehenderit officia dolor aliquip fugiat Lorem reprehenderit eiusmod. Tempor sunt deserunt tempor culpa proident. Do ad tempor quis non reprehenderit aute qui incididunt cillum culpa ex. Consectetur magna adipisicing est nisi aliquip eiusmod. Nostrud commodo anim veniam consectetur culpa ex minim excepteur in.",
+    "Description4": "Velit nisi ullamco excepteur ad anim nisi ea ipsum. Ut consectetur aliqua adipisicing enim do ad tempor laboris. Sint tempor labore exercitation enim duis aliquip sint ex tempor ex eiusmod dolor. Eiusmod dolore id reprehenderit excepteur enim aliqua excepteur esse dolore elit consectetur culpa anim. Non velit excepteur ad sint magna. Qui culpa culpa ullamco in ipsum ipsum. Ipsum est duis dolor eu nulla occaecat qui occaecat non sunt.",
+    "Status": "доработка РК",
+    "OwnerId": 23,
+    "AuthorId": 45,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 15
+      },
+      {
+        "CoownerId": 24
+      },
+      {
+        "CoownerId": 25
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 3,
+        "DateResult": "2018-12-03",
+        "UserId": 5,
+        "Result": "доработка РМ",
+        "Comment": "Consectetur proident amet dolor adipisicing amet nisi officia aliqua culpa sint amet."
+      }
+    ],
+    "DateRealisation": "2018-12-03",
+    "DateChange": "2018-12-03",
+    "Description1": "Ex eiusmod incididunt ad sunt pariatur magna. Ea voluptate occaecat nisi veniam ex anim culpa pariatur ipsum pariatur labore nisi dolor. Enim nisi aute sint dolore laboris id ea dolore velit proident adipisicing ad duis.",
+    "Description2": "Excepteur irure aliquip aute nostrud elit eu officia deserunt adipisicing nisi pariatur. Ullamco amet quis ullamco dolore veniam dolore elit aute dolore ex. Officia cupidatat eu exercitation qui tempor dolor fugiat. In est elit sit ullamco ut culpa sit non sunt proident aliqua excepteur sunt.",
+    "Description3": "Quis incididunt incididunt eu anim et irure ipsum aliquip est. Non ea est consectetur velit nostrud eu irure veniam excepteur do. Aute dolore dolor incididunt deserunt eu consectetur cupidatat eu qui esse incididunt nulla. Ullamco officia anim elit pariatur ad fugiat ad ad fugiat ut. Nulla minim irure quis ipsum.",
+    "Description4": "Dolore labore ullamco cillum sit Lorem id sint ea amet ea incididunt. Elit tempor mollit et ex reprehenderit in dolore reprehenderit nostrud non aute magna. Do sit aliqua tempor veniam eu exercitation fugiat sit nostrud Lorem eiusmod.",
+    "Status": "доработка РМ",
+    "OwnerId": 3,
+    "AuthorId": 5,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 24
+      },
+      {
+        "CoownerId": 16
+      },
+      {
+        "CoownerId": 22
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 15,
+        "DateResult": "2018-02-17",
+        "UserId": 29,
+        "Result": "согласование",
+        "Comment": "Consequat tempor qui consequat esse dolor."
+      }
+    ],
+    "DateRealisation": "2018-02-17",
+    "DateChange": "2018-02-17",
+    "Description1": "Consectetur esse reprehenderit non incididunt deserunt pariatur. Irure nostrud duis velit ex velit nisi. Sint excepteur non in commodo deserunt dolore magna. Sit magna incididunt ea nisi non dolore tempor laborum officia eiusmod minim deserunt duis exercitation. Aliquip esse nostrud velit minim aliqua minim est. Nulla dolore ad magna id pariatur.",
+    "Description2": "Pariatur eiusmod aute enim tempor Lorem exercitation aliqua incididunt do ex. Irure commodo nostrud minim enim amet esse consequat officia. Tempor cillum cillum eiusmod cupidatat Lorem ullamco dolor et in. Consequat commodo velit quis labore.",
+    "Description3": "Ipsum id veniam ad ullamco laborum laboris. Magna ullamco laboris quis qui laboris nisi cillum laboris. Consequat minim irure cillum velit sit ad occaecat laboris fugiat consequat elit fugiat duis incididunt.",
+    "Description4": "Duis dolore id ex sint id enim culpa eu eu cillum. Ut consectetur ullamco aliqua culpa sunt Lorem. Duis mollit sunt velit ea voluptate. Nulla aute est esse ullamco laboris amet anim exercitation exercitation officia anim eiusmod.",
+    "Status": "согласование",
+    "OwnerId": 15,
+    "AuthorId": 29,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 10
+      },
+      {
+        "CoownerId": 8
+      },
+      {
+        "CoownerId": 9
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 21,
+        "DateResult": "2018-04-07",
+        "UserId": 41,
+        "Result": "проверка",
+        "Comment": "Incididunt ea consectetur esse et aute esse mollit occaecat aliqua."
+      }
+    ],
+    "DateRealisation": "2018-04-07",
+    "DateChange": "2018-04-07",
+    "Description1": "Sit nostrud exercitation nisi pariatur elit exercitation incididunt est occaecat aute ipsum culpa. Consequat duis duis proident consectetur amet non laborum voluptate ullamco exercitation Lorem anim fugiat. Pariatur adipisicing sint eu id minim cillum ullamco do id. Excepteur amet dolore exercitation amet dolor fugiat occaecat cillum id excepteur ex cupidatat nulla. Enim incididunt excepteur quis Lorem eu consequat ex commodo ut mollit deserunt. Est in consequat occaecat ipsum quis reprehenderit qui excepteur qui sit nisi. Aute non quis id anim aute sit mollit minim consequat esse consectetur elit in.",
+    "Description2": "Nisi elit officia consequat eiusmod dolore. Cupidatat amet anim nostrud reprehenderit ad labore ad esse exercitation est cupidatat laborum. Incididunt deserunt cupidatat consectetur magna proident ad. In irure est cillum ea in deserunt exercitation. Irure non veniam non esse fugiat officia id nulla commodo elit. Nisi tempor enim adipisicing et Lorem quis velit culpa id reprehenderit dolor tempor dolore exercitation.",
+    "Description3": "Nulla cillum incididunt voluptate occaecat non proident mollit deserunt. Ex aliquip voluptate aute ut sint quis do cupidatat magna aliquip irure fugiat eu do. Duis in adipisicing incididunt nisi quis labore do.",
+    "Description4": "Amet in aute laborum est occaecat reprehenderit occaecat officia eiusmod esse duis mollit. Reprehenderit pariatur adipisicing enim in irure aute amet. Aliqua anim eu nostrud ad consectetur culpa non nulla ullamco. Irure enim qui qui dolor ipsum sint.",
+    "Status": "проверка",
+    "OwnerId": 21,
+    "AuthorId": 41,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 5
+      },
+      {
+        "CoownerId": 1
+      },
+      {
+        "CoownerId": 14
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 24,
+        "DateResult": "2018-09-06",
+        "UserId": 47,
+        "Result": "черновик",
+        "Comment": "Esse aliqua sunt quis est occaecat ut commodo velit anim velit non."
+      }
+    ],
+    "DateRealisation": "2018-09-06",
+    "DateChange": "2018-09-06",
+    "Description1": "Aliquip incididunt sit quis irure ad tempor exercitation incididunt aute occaecat. Cupidatat occaecat duis ullamco laboris aliqua non ullamco dolor. Ea deserunt enim velit eu do ad et nostrud. Lorem ullamco eiusmod tempor veniam aute ad cupidatat officia minim id aliquip nisi mollit ex. Deserunt fugiat magna sunt mollit fugiat non labore nulla ipsum tempor enim amet ullamco. Proident nostrud in do ad adipisicing labore.",
+    "Description2": "Deserunt officia sunt id ea enim mollit mollit ea. Anim irure consequat occaecat cillum officia velit ea esse dolor. Deserunt tempor dolor reprehenderit aute aute deserunt eiusmod nostrud.",
+    "Description3": "Nulla ex sit officia esse Lorem occaecat sint nostrud Lorem. Dolor reprehenderit do amet non do do. Enim ut ullamco voluptate ipsum sit veniam reprehenderit mollit occaecat aute ad sit incididunt eu. Est occaecat elit nulla ex dolore voluptate consectetur occaecat exercitation cillum. Nulla deserunt minim occaecat esse cillum mollit. Labore amet aute minim laboris deserunt elit.",
+    "Description4": "Velit eiusmod reprehenderit culpa eiusmod laborum mollit sint tempor non aliqua voluptate. Dolor in aute anim quis. Reprehenderit tempor laboris sit qui nostrud eiusmod excepteur labore eiusmod mollit aliqua consectetur exercitation voluptate. Est irure minim cupidatat Lorem anim nostrud sit.",
+    "Status": "черновик",
+    "OwnerId": 24,
+    "AuthorId": 47,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 16
+      },
+      {
+        "CoownerId": 9
+      },
+      {
+        "CoownerId": 13
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 15,
+        "DateResult": "2018-08-10",
+        "UserId": 29,
+        "Result": "согласование",
+        "Comment": "Est veniam sunt labore labore ex do nulla."
+      }
+    ],
+    "DateRealisation": "2018-08-10",
+    "DateChange": "2018-08-10",
+    "Description1": "Esse laboris Lorem sit sint sint minim incididunt nisi. Pariatur ex cillum est non cillum proident aliqua sit occaecat mollit aliqua sit ad. Voluptate magna proident eu nostrud cupidatat qui nisi proident ipsum. Reprehenderit id proident labore consequat ut incididunt occaecat eu mollit. Lorem ipsum commodo anim ut sit labore deserunt tempor.",
+    "Description2": "Dolor ad labore nisi tempor. Anim incididunt qui aliqua ex exercitation mollit sit nostrud duis commodo et. Aute elit enim et qui laboris nulla esse esse ad fugiat adipisicing commodo. Sint consectetur proident non duis exercitation duis ut minim esse reprehenderit deserunt tempor eu veniam.",
+    "Description3": "Sunt qui ut anim aute aliquip sit. Do eu ex labore id minim excepteur officia. Veniam do non exercitation qui reprehenderit excepteur deserunt ex nostrud pariatur laboris sint Lorem. Minim deserunt anim consequat laborum aliquip enim consequat duis dolor. Voluptate et proident mollit irure ex minim eiusmod proident dolore. Est consectetur exercitation esse non sint.",
+    "Description4": "Anim minim ea reprehenderit ex nulla velit commodo ex duis laboris ex eu ad. Ea magna velit excepteur aliquip duis. Sint sunt ut reprehenderit dolore aute deserunt consectetur minim enim cupidatat. Nostrud adipisicing id dolor culpa consequat ullamco esse mollit veniam aute laboris incididunt laborum pariatur. Labore dolore exercitation sint fugiat cupidatat officia. Minim ex elit tempor consectetur est occaecat pariatur et ipsum.",
+    "Status": "согласование",
+    "OwnerId": 15,
+    "AuthorId": 29,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 21
+      },
+      {
+        "CoownerId": 24
+      },
+      {
+        "CoownerId": 23
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 24,
+        "DateResult": "2018-08-11",
+        "UserId": 47,
+        "Result": "проверка",
+        "Comment": "Elit tempor ipsum sint eiusmod."
+      }
+    ],
+    "DateRealisation": "2018-08-11",
+    "DateChange": "2018-08-11",
+    "Description1": "Dolor consectetur pariatur adipisicing enim aliqua in ea aliquip. Lorem nostrud Lorem minim veniam aliquip esse aliquip dolor ad anim dolor dolore dolore. Elit magna magna enim magna ea amet. Do in ea aliqua cillum adipisicing velit exercitation exercitation. Exercitation qui dolore culpa culpa non eiusmod nostrud ipsum consequat dolore adipisicing pariatur. Aliqua amet mollit officia exercitation veniam adipisicing id incididunt ea laboris et. Elit excepteur aute non incididunt commodo id nostrud.",
+    "Description2": "Reprehenderit velit commodo id laborum cupidatat est cupidatat. Est laborum velit commodo aute. Occaecat reprehenderit do id aliqua deserunt. Proident labore cillum nisi voluptate ea ex cillum ad. Duis qui adipisicing deserunt adipisicing tempor ullamco nostrud do. Enim cupidatat Lorem eu officia ad.",
+    "Description3": "Elit laborum minim elit adipisicing magna qui qui ipsum dolor consequat irure et sit ex. Culpa ullamco sit labore in in nostrud nulla occaecat culpa ullamco ullamco eiusmod. Ullamco occaecat quis sit amet tempor nisi ex mollit duis magna minim ad. Nulla esse irure nostrud voluptate adipisicing aliquip ex eu.",
+    "Description4": "Laborum laboris elit deserunt ipsum dolor. Ipsum nulla magna aliquip proident cillum ad amet et occaecat cupidatat et et nisi non. Veniam tempor officia ullamco voluptate. Culpa adipisicing excepteur ullamco tempor quis. Velit culpa aliqua aliquip id ullamco laboris pariatur duis.",
+    "Status": "проверка",
+    "OwnerId": 24,
+    "AuthorId": 47,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 8
+      },
+      {
+        "CoownerId": 7
+      },
+      {
+        "CoownerId": 10
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 2,
+        "DateResult": "2018-06-19",
+        "UserId": 3,
+        "Result": "доработка РК",
+        "Comment": "Sint ullamco labore cillum consectetur exercitation ea ipsum."
+      }
+    ],
+    "DateRealisation": "2018-06-19",
+    "DateChange": "2018-06-19",
+    "Description1": "Culpa deserunt aliquip id duis officia cupidatat et duis adipisicing non. Amet amet et nostrud nulla amet tempor irure reprehenderit duis nulla nisi voluptate. Veniam velit eiusmod exercitation qui sunt ad fugiat voluptate.",
+    "Description2": "Amet laboris mollit ea eu culpa sit commodo adipisicing consequat exercitation fugiat anim est. Eiusmod dolore voluptate non laborum aliquip laboris deserunt adipisicing adipisicing eiusmod commodo ipsum magna commodo. Non magna et veniam occaecat Lorem irure consequat excepteur mollit incididunt in ut nisi. Velit adipisicing sit magna consectetur magna do veniam id. Nisi sint aliqua laboris nostrud tempor amet sint fugiat aliqua fugiat cupidatat nisi proident mollit. Excepteur ea do fugiat Lorem.",
+    "Description3": "Ad commodo duis esse dolore excepteur anim est. Ipsum nisi elit pariatur reprehenderit tempor laboris veniam cupidatat ad nisi reprehenderit. Anim ullamco et excepteur incididunt qui commodo incididunt ad irure. Magna fugiat ut tempor do id. Id aliquip velit fugiat ad labore incididunt occaecat nostrud nostrud eiusmod incididunt consectetur veniam. Laboris reprehenderit voluptate Lorem Lorem dolor exercitation aliqua id consequat sunt voluptate. Do nisi aliqua cillum labore ea nulla culpa amet tempor.",
+    "Description4": "Non veniam aute dolor voluptate veniam. Duis irure voluptate occaecat amet cillum sunt voluptate. Consectetur sint ad ipsum id non fugiat non.",
+    "Status": "доработка РК",
+    "OwnerId": 2,
+    "AuthorId": 3,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 16
+      },
+      {
+        "CoownerId": 1
+      },
+      {
+        "CoownerId": 17
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 25,
+        "DateResult": "2018-04-26",
+        "UserId": 49,
+        "Result": "проверка",
+        "Comment": "Nostrud amet ipsum incididunt enim officia."
+      }
+    ],
+    "DateRealisation": "2018-04-26",
+    "DateChange": "2018-04-26",
+    "Description1": "Tempor ad cillum minim ullamco. Elit dolore veniam eiusmod laboris cillum in. Id excepteur enim cillum mollit ea deserunt excepteur Lorem mollit mollit voluptate quis ad qui. Culpa id dolor esse officia cillum aliquip cupidatat proident dolore sunt in nulla culpa. Deserunt ea est dolor sit mollit. Aliquip nulla culpa pariatur nulla ut cupidatat. Laboris eiusmod amet nulla officia exercitation quis laboris mollit nulla dolor tempor nostrud do.",
+    "Description2": "Esse exercitation commodo pariatur consectetur nisi. Qui pariatur nostrud fugiat veniam magna eu. In ullamco reprehenderit dolor eiusmod velit esse voluptate. Duis exercitation ut adipisicing qui anim sit minim proident nostrud voluptate eiusmod. Minim mollit enim occaecat incididunt do eiusmod excepteur deserunt dolore dolor et laboris officia. Nulla tempor do nostrud magna nisi.",
+    "Description3": "Officia dolor esse id irure laboris. Nulla ullamco anim dolor incididunt cupidatat minim duis deserunt laborum duis eu. Officia tempor ullamco eiusmod exercitation. Non in officia minim nostrud labore amet ex reprehenderit reprehenderit id quis eu occaecat anim.",
+    "Description4": "Sit quis anim eiusmod sunt ea. Minim eiusmod voluptate ea irure ipsum. Sit fugiat nisi anim irure cupidatat cupidatat officia magna nisi occaecat labore. Irure mollit id id officia nisi consectetur officia aliqua. Dolor occaecat et id aute amet cillum qui fugiat consequat proident adipisicing dolore. Voluptate in est aliqua duis eiusmod do do eiusmod. Veniam anim tempor cupidatat magna non cillum.",
+    "Status": "проверка",
+    "OwnerId": 25,
+    "AuthorId": 49,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 27
+      },
+      {
+        "CoownerId": 22
+      },
+      {
+        "CoownerId": 18
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 12,
+        "DateResult": "2018-08-03",
+        "UserId": 23,
+        "Result": "черновик",
+        "Comment": "Aliquip officia deserunt officia consequat."
+      }
+    ],
+    "DateRealisation": "2018-08-03",
+    "DateChange": "2018-08-03",
+    "Description1": "Qui commodo dolore ipsum tempor eu officia occaecat magna nisi. Esse proident excepteur ad esse qui labore nulla incididunt nulla elit velit sit proident. In voluptate dolore proident amet ipsum enim tempor excepteur. Magna quis dolor labore voluptate voluptate dolore. Velit ut mollit proident ipsum mollit velit Lorem qui. Est laborum amet in commodo eu laboris officia laborum amet dolor consectetur qui proident.",
+    "Description2": "Laboris labore reprehenderit consectetur occaecat incididunt in id esse ad. Ad mollit non eiusmod proident. Incididunt laboris nostrud ut nisi deserunt proident enim aute laboris laborum duis ea cupidatat.",
+    "Description3": "Enim eu nostrud ipsum duis irure quis dolor nulla occaecat adipisicing. Adipisicing aliquip anim eiusmod officia nostrud esse nulla aliquip sunt do excepteur Lorem sunt adipisicing. Deserunt anim quis ullamco magna qui ipsum sit ad labore enim dolore ad qui. Ad fugiat nisi irure deserunt cillum sint. Excepteur ipsum in nulla duis.",
+    "Description4": "Dolore minim ad non cillum veniam proident reprehenderit consectetur reprehenderit ex ullamco nisi do. Officia adipisicing commodo cupidatat tempor id fugiat id. Eiusmod et in sunt qui irure dolore aliquip mollit consectetur cillum quis sunt. Sint nisi esse amet occaecat commodo veniam sint magna laboris dolor.",
+    "Status": "черновик",
+    "OwnerId": 12,
+    "AuthorId": 23,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 12
+      },
+      {
+        "CoownerId": 3
+      },
+      {
+        "CoownerId": 26
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 7,
+        "DateResult": "2018-12-20",
+        "UserId": 13,
+        "Result": "проверка",
+        "Comment": "In ipsum anim duis anim nisi aute sunt dolor sunt aliquip irure."
+      }
+    ],
+    "DateRealisation": "2018-12-20",
+    "DateChange": "2018-12-20",
+    "Description1": "Laboris in adipisicing pariatur cupidatat veniam. Excepteur magna minim sunt consectetur ipsum. Labore aliqua et ut ad duis nulla consequat. Fugiat sunt quis aliquip et.",
+    "Description2": "Ea enim officia ea nostrud eu. Exercitation aliqua Lorem amet cillum ullamco elit quis laboris dolor in dolor exercitation exercitation quis. Sunt ut veniam exercitation quis consectetur qui non voluptate excepteur exercitation. Aute veniam deserunt nostrud amet.",
+    "Description3": "Sit ea qui nulla Lorem nisi dolore laborum ex. Ipsum cillum commodo anim tempor irure. Excepteur ullamco labore ea velit veniam. Esse sit nisi incididunt veniam. Aliqua pariatur cillum amet consectetur mollit ex ex et culpa in ad consectetur ea tempor. Ullamco cupidatat mollit ullamco id dolore exercitation eu do veniam proident elit. Veniam magna mollit adipisicing excepteur eu eiusmod fugiat et.",
+    "Description4": "Labore cupidatat ullamco mollit eiusmod laborum et dolor consectetur ex. Amet officia adipisicing enim ullamco aliqua exercitation amet amet eu. Tempor sint exercitation et culpa id ad cupidatat ex ipsum aliquip officia labore cupidatat aute. Incididunt nisi occaecat fugiat minim ex id excepteur et laboris et aute amet deserunt non.",
+    "Status": "проверка",
+    "OwnerId": 7,
+    "AuthorId": 13,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 8
+      },
+      {
+        "CoownerId": 4
+      },
+      {
+        "CoownerId": 16
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 7,
+        "DateResult": "2018-06-19",
+        "UserId": 13,
+        "Result": "доработка РМ",
+        "Comment": "Anim aliquip officia reprehenderit amet sit."
+      }
+    ],
+    "DateRealisation": "2018-06-19",
+    "DateChange": "2018-06-19",
+    "Description1": "Veniam consequat cillum elit eiusmod nostrud velit esse pariatur duis non. Irure officia in aliqua commodo consectetur. Do Lorem esse consectetur nisi esse consequat.",
+    "Description2": "Nisi sit pariatur cupidatat voluptate esse voluptate. Anim magna sit commodo non aliqua consectetur magna sunt. Enim proident id ad labore. Ut commodo minim dolore labore aliqua aliqua aliqua do. Dolor est sunt ipsum commodo aute irure nisi do in occaecat sit pariatur mollit.",
+    "Description3": "Eiusmod deserunt sunt velit aliquip aliquip do mollit. Deserunt reprehenderit laborum irure aute amet enim incididunt enim enim culpa tempor culpa eiusmod. Laboris enim elit non reprehenderit Lorem. Dolor laborum minim consequat proident aute ipsum ullamco velit veniam aute laborum.",
+    "Description4": "Tempor aliquip non ullamco deserunt id nulla fugiat laboris id ex. Qui proident commodo cillum et proident sit est sunt est sunt. Labore incididunt eu dolore ullamco sint sunt nisi. Incididunt aute amet ex Lorem cillum.",
+    "Status": "доработка РМ",
+    "OwnerId": 7,
+    "AuthorId": 13,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 7
+      },
+      {
+        "CoownerId": 21
+      },
+      {
+        "CoownerId": 23
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 24,
+        "DateResult": "2018-05-25",
+        "UserId": 47,
+        "Result": "доработка РМ",
+        "Comment": "Proident sunt exercitation labore commodo."
+      }
+    ],
+    "DateRealisation": "2018-05-25",
+    "DateChange": "2018-05-25",
+    "Description1": "Laboris consequat duis sunt dolore elit labore proident non mollit eu eiusmod. Commodo elit ea dolor culpa sit velit labore sint commodo ipsum id et irure. Eiusmod enim proident irure et. Minim elit incididunt officia adipisicing minim.",
+    "Description2": "Exercitation est enim anim minim. Proident id laborum et et deserunt quis cillum eu laborum velit consequat sunt magna. Dolor duis cillum sint nostrud quis irure commodo Lorem. Et occaecat ea voluptate Lorem adipisicing qui et in quis.",
+    "Description3": "Consequat do ex sint duis consequat nulla elit laboris veniam pariatur consequat consequat ipsum culpa. Commodo laborum ea occaecat irure sunt consequat deserunt enim aute laboris veniam sunt sint. Labore ullamco in laboris anim proident.",
+    "Description4": "Sint cupidatat elit do pariatur nostrud ex ullamco proident. Nostrud minim et veniam veniam consectetur ea incididunt sunt ad sunt anim culpa. Esse elit irure ea labore aute commodo dolor dolor.",
+    "Status": "доработка РМ",
+    "OwnerId": 24,
+    "AuthorId": 47,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 22
+      },
+      {
+        "CoownerId": 15
+      },
+      {
+        "CoownerId": 8
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 2,
+        "DateResult": "2018-10-08",
+        "UserId": 3,
+        "Result": "черновик",
+        "Comment": "Ea nulla elit laboris et aliquip mollit culpa aliqua velit ipsum sint consequat."
+      }
+    ],
+    "DateRealisation": "2018-10-08",
+    "DateChange": "2018-10-08",
+    "Description1": "Do ipsum dolor tempor reprehenderit consectetur duis Lorem sunt excepteur. Commodo ullamco adipisicing ex elit ullamco duis esse exercitation eiusmod nisi magna. Irure pariatur consectetur elit aliqua duis est laborum aliquip excepteur. Ullamco aute culpa aute excepteur Lorem ea commodo laborum anim Lorem veniam sint. Magna pariatur deserunt enim do aute non consectetur. Minim excepteur est et fugiat. Mollit ad cupidatat pariatur adipisicing.",
+    "Description2": "Aliquip fugiat id in id incididunt commodo proident mollit sunt incididunt. In laboris in laborum cillum labore Lorem. Dolore veniam ipsum proident qui nostrud commodo sunt.",
+    "Description3": "Officia est aliqua velit culpa laborum mollit tempor adipisicing nostrud non adipisicing deserunt incididunt dolore. Irure enim tempor amet excepteur aute. Qui voluptate eiusmod et consequat culpa ad est sunt fugiat velit elit. Ut exercitation ipsum esse culpa commodo ea. Id aliqua occaecat velit quis sunt.",
+    "Description4": "Consequat labore amet veniam culpa commodo eu eu non nisi. Nisi nulla officia dolore ad cupidatat sit aute aliqua exercitation id et. Ut est occaecat adipisicing laboris ut. Tempor sit magna dolor magna consectetur aliquip quis eu dolor occaecat. Lorem irure non labore voluptate dolor anim sit cupidatat aliqua commodo. Mollit labore consectetur commodo sunt nulla officia enim labore commodo adipisicing labore amet.",
+    "Status": "черновик",
+    "OwnerId": 2,
+    "AuthorId": 3,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 9
+      },
+      {
+        "CoownerId": 7
+      },
+      {
+        "CoownerId": 24
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 4,
+        "DateResult": "2018-03-24",
+        "UserId": 7,
+        "Result": "доработка РМ",
+        "Comment": "Duis fugiat duis minim non consectetur minim veniam aute."
+      }
+    ],
+    "DateRealisation": "2018-03-24",
+    "DateChange": "2018-03-24",
+    "Description1": "Aliqua amet eiusmod cillum aute. Duis in tempor est ex veniam consequat in eiusmod. Id est mollit irure sunt culpa reprehenderit minim tempor ad id dolor do. Occaecat adipisicing aliqua fugiat incididunt in. In incididunt veniam laboris adipisicing nostrud incididunt. Elit labore amet ut incididunt nulla cillum in. Est occaecat consequat sit enim proident in aliquip exercitation.",
+    "Description2": "Consequat et Lorem ad labore duis. Cillum nisi qui ex duis sint enim proident officia exercitation amet esse. Elit ea pariatur pariatur non ad minim duis non. Nulla irure do pariatur proident enim proident.",
+    "Description3": "Anim adipisicing ipsum ullamco et non eu. Commodo sunt duis commodo aliquip est voluptate Lorem esse. Labore irure irure magna irure enim incididunt.",
+    "Description4": "Deserunt ut nulla sunt aute et aliquip incididunt. Reprehenderit irure commodo sint consequat amet ea incididunt esse. Consequat anim dolore qui minim duis incididunt adipisicing voluptate nulla. Cillum velit officia in nulla duis fugiat. Ut nulla sint aliquip velit ea sunt culpa aute sit reprehenderit occaecat mollit cillum. Nostrud commodo deserunt velit amet consequat laborum ex mollit sint ad.",
+    "Status": "доработка РМ",
+    "OwnerId": 4,
+    "AuthorId": 7,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 12
+      },
+      {
+        "CoownerId": 14
+      },
+      {
+        "CoownerId": 2
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 28,
+        "DateResult": "2018-06-30",
+        "UserId": 55,
+        "Result": "проверка",
+        "Comment": "Excepteur excepteur id do id sunt."
+      }
+    ],
+    "DateRealisation": "2018-06-30",
+    "DateChange": "2018-06-30",
+    "Description1": "Consequat magna eiusmod mollit voluptate et nostrud pariatur exercitation nulla. Occaecat ex duis consequat et dolore quis adipisicing sunt anim irure sit. Voluptate do cupidatat laboris ex magna laborum aute labore id tempor anim dolor fugiat. Voluptate nulla cupidatat ad reprehenderit ea pariatur esse nulla incididunt consequat. Dolor ex et dolor cillum.",
+    "Description2": "Adipisicing quis dolore duis proident. Aliqua officia aute adipisicing duis proident ex Lorem irure ipsum ipsum eiusmod quis voluptate. Dolore duis minim deserunt ullamco nisi commodo proident culpa. Amet ea duis eu ea irure irure sint duis amet qui quis. Excepteur eu deserunt minim ut do nulla. Eu eu esse labore nulla.",
+    "Description3": "Est consectetur pariatur tempor minim veniam amet tempor occaecat exercitation elit excepteur. Veniam deserunt aliqua pariatur voluptate enim velit id do aute ipsum laborum officia. Irure velit proident minim enim aliquip dolor.",
+    "Description4": "Anim laboris nostrud mollit consectetur duis proident nisi reprehenderit nulla esse sit exercitation esse. Pariatur occaecat incididunt reprehenderit veniam cillum. Dolore est ullamco magna excepteur voluptate duis officia laborum sit officia Lorem. Est veniam ipsum do elit esse excepteur nulla qui aliquip. Id cillum ea ipsum excepteur nisi esse dolore adipisicing aute. Commodo mollit incididunt sint minim laboris et dolore nulla qui.",
+    "Status": "проверка",
+    "OwnerId": 28,
+    "AuthorId": 55,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 23
+      },
+      {
+        "CoownerId": 12
+      },
+      {
+        "CoownerId": 18
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 20,
+        "DateResult": "2018-01-13",
+        "UserId": 39,
+        "Result": "доработка РК",
+        "Comment": "Eiusmod non nulla ad dolor quis deserunt est commodo eu officia."
+      }
+    ],
+    "DateRealisation": "2018-01-13",
+    "DateChange": "2018-01-13",
+    "Description1": "Ea id velit laborum eu esse elit. Fugiat nisi voluptate duis duis pariatur ut culpa officia cupidatat sunt aliqua in occaecat ea. Irure occaecat reprehenderit ea deserunt elit minim aliqua aliquip anim consequat. Reprehenderit ad mollit adipisicing minim culpa do. Incididunt do esse consectetur deserunt enim nulla velit exercitation anim adipisicing. Nisi ipsum incididunt nostrud fugiat do ad aute et.",
+    "Description2": "Aute magna ea fugiat nisi enim fugiat labore aute non ea pariatur nostrud non. Eiusmod culpa dolore id amet mollit sit. Tempor sint aute nisi ipsum voluptate. Consectetur proident exercitation reprehenderit amet sunt labore nulla enim. Laborum dolor est ullamco amet consequat nostrud enim duis et nisi. Occaecat mollit reprehenderit aliquip cillum laborum nostrud aliquip nostrud elit esse labore est officia et.",
+    "Description3": "Elit eiusmod laborum nostrud cillum enim culpa Lorem eiusmod sit. Aute id dolore exercitation quis incididunt sit in nostrud labore veniam nulla deserunt nulla ipsum. Pariatur est exercitation sunt qui proident est. Adipisicing aliquip elit pariatur duis. Cupidatat ad Lorem ad nostrud sunt non.",
+    "Description4": "Incididunt ullamco duis aliquip ut enim culpa sunt non deserunt anim ut culpa. Consectetur mollit anim voluptate aliquip culpa labore dolor ut anim non Lorem ea veniam. Sunt in excepteur fugiat anim officia. Quis esse occaecat elit irure esse qui. In ea amet Lorem culpa et in ipsum tempor dolor ea sunt tempor.",
+    "Status": "доработка РК",
+    "OwnerId": 20,
+    "AuthorId": 39,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 1
+      },
+      {
+        "CoownerId": 10
+      },
+      {
+        "CoownerId": 7
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 27,
+        "DateResult": "2018-06-20",
+        "UserId": 53,
+        "Result": "согласование",
+        "Comment": "Minim excepteur laboris velit sint consequat excepteur commodo."
+      }
+    ],
+    "DateRealisation": "2018-06-20",
+    "DateChange": "2018-06-20",
+    "Description1": "Ad commodo sit sunt consequat eiusmod fugiat ut adipisicing do anim adipisicing. Quis commodo mollit anim id ex nostrud aute. Labore nulla laborum pariatur consectetur commodo amet id nostrud in proident officia in.",
+    "Description2": "Cupidatat cillum excepteur deserunt laborum velit ipsum. Elit consequat culpa veniam laborum fugiat. Quis est deserunt sit ullamco qui quis veniam dolore. Magna velit commodo et ex sint. Quis in aute ex dolore dolore. Do excepteur voluptate elit occaecat magna id duis aute consequat qui aute. Esse quis adipisicing aute ut cupidatat Lorem.",
+    "Description3": "Consectetur id et ut aliqua deserunt. Sint velit reprehenderit occaecat tempor eiusmod aute aliqua ex adipisicing nulla pariatur aliquip magna. Aute minim fugiat non commodo ea culpa. Fugiat pariatur deserunt Lorem incididunt deserunt. Sunt in ipsum commodo est nostrud dolore cupidatat do eiusmod tempor ex officia aliquip nulla. Proident Lorem excepteur exercitation cillum id commodo ullamco excepteur ad occaecat. Excepteur velit amet est excepteur voluptate laborum aliquip cupidatat proident.",
+    "Description4": "Veniam ad mollit voluptate exercitation fugiat velit ut veniam. Et occaecat nulla minim duis aliquip elit excepteur Lorem reprehenderit mollit Lorem esse. Incididunt voluptate velit non ad non labore aliquip voluptate id magna elit. Quis officia fugiat sit sint minim enim qui cillum aliquip ut non.",
+    "Status": "согласование",
+    "OwnerId": 27,
+    "AuthorId": 53,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 15
+      },
+      {
+        "CoownerId": 13
+      },
+      {
+        "CoownerId": 7
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 18,
+        "DateResult": "2018-07-26",
+        "UserId": 35,
+        "Result": "согласование",
+        "Comment": "Dolor irure do laborum laboris cupidatat."
+      }
+    ],
+    "DateRealisation": "2018-07-26",
+    "DateChange": "2018-07-26",
+    "Description1": "Dolor aliqua aliquip consectetur minim. Reprehenderit et quis commodo irure consectetur in ex dolore irure minim. Nisi duis eiusmod labore laborum sunt Lorem commodo voluptate et veniam irure id elit minim. Exercitation pariatur labore in quis. Non pariatur anim dolore cupidatat tempor culpa reprehenderit quis nisi et anim labore et. Quis ad mollit laborum commodo culpa ipsum amet ad. Laborum voluptate ea excepteur magna ex culpa pariatur dolore occaecat.",
+    "Description2": "Irure do cupidatat laboris in. Sint elit irure in laboris velit reprehenderit consequat quis ex nisi. Id est adipisicing adipisicing est. Occaecat commodo aute quis eiusmod cillum sunt elit consectetur commodo enim laboris. Aliqua labore irure ex fugiat consequat dolore. Ex occaecat non anim dolor labore do enim magna.",
+    "Description3": "Ex amet dolor commodo velit ipsum quis reprehenderit tempor aliqua. Deserunt qui dolore quis nisi proident et. Deserunt minim voluptate cupidatat id ullamco exercitation sit culpa magna adipisicing. Aliquip laborum elit irure reprehenderit minim ex occaecat ullamco esse nisi cillum reprehenderit. Non amet et sunt aute nisi qui et culpa ullamco fugiat pariatur mollit. Mollit aliqua deserunt ex exercitation.",
+    "Description4": "Mollit veniam sunt anim cupidatat consectetur sunt consequat veniam nisi. Anim irure labore cillum anim amet excepteur ea nostrud. Pariatur ullamco nostrud aliqua ullamco commodo. Minim consectetur consectetur dolore cupidatat dolore sint.",
+    "Status": "согласование",
+    "OwnerId": 18,
+    "AuthorId": 35,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 6
+      },
+      {
+        "CoownerId": 19
+      },
+      {
+        "CoownerId": 3
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 5,
+        "DateResult": "2018-05-28",
+        "UserId": 9,
+        "Result": "доработка РМ",
+        "Comment": "Aute nostrud incididunt qui est ipsum irure exercitation nisi reprehenderit voluptate fugiat consectetur."
+      }
+    ],
+    "DateRealisation": "2018-05-28",
+    "DateChange": "2018-05-28",
+    "Description1": "Labore consequat labore anim pariatur do quis do magna cupidatat cillum enim eu veniam quis. Lorem do pariatur commodo non exercitation do adipisicing eiusmod qui commodo minim ex dolor. Minim in magna cillum Lorem esse quis non. Reprehenderit id est et adipisicing fugiat adipisicing et. Ex pariatur labore consectetur quis ipsum duis nulla reprehenderit adipisicing nisi incididunt duis. Nostrud est officia eiusmod elit duis officia ut esse qui veniam.",
+    "Description2": "Amet aute non nostrud mollit minim fugiat nostrud excepteur non voluptate velit id. Dolor aliqua laborum ex labore magna nisi qui pariatur amet et. Adipisicing magna fugiat labore ut ea pariatur. Veniam voluptate tempor exercitation exercitation deserunt non anim. Consectetur reprehenderit eiusmod exercitation mollit commodo. Amet labore id tempor ex ad anim aliquip eiusmod id. Qui cillum sunt amet ut non eu quis enim.",
+    "Description3": "Voluptate excepteur magna non amet adipisicing culpa est cillum commodo consequat minim in. Reprehenderit consectetur officia reprehenderit magna ad ut cillum duis consectetur mollit. Aliquip occaecat nisi do culpa duis veniam pariatur sit enim ut ea nisi elit. Aliqua ut aute et deserunt sint laborum Lorem. Sit enim sit veniam ex. Pariatur deserunt culpa qui ad cillum proident mollit ullamco minim ea ipsum.",
+    "Description4": "Culpa ex laboris nisi laborum enim magna anim elit nisi ad cupidatat. Irure ut cupidatat laborum labore officia in sint cupidatat dolore do. Mollit amet minim adipisicing sint enim elit commodo in Lorem nostrud excepteur tempor quis. Aute dolor cupidatat proident ipsum pariatur minim labore. In est deserunt in culpa labore do consequat officia fugiat do. Consectetur tempor non do aute id ut.",
+    "Status": "доработка РМ",
+    "OwnerId": 5,
+    "AuthorId": 9,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 2
+      },
+      {
+        "CoownerId": 26
+      },
+      {
+        "CoownerId": 20
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 10,
+        "DateResult": "2018-08-25",
+        "UserId": 19,
+        "Result": "доработка РМ",
+        "Comment": "In anim sunt incididunt quis ullamco ad et ut commodo non tempor."
+      }
+    ],
+    "DateRealisation": "2018-08-25",
+    "DateChange": "2018-08-25",
+    "Description1": "Dolor ipsum eu est sunt consectetur cillum sit non occaecat. Est tempor velit veniam non minim ad ullamco reprehenderit dolor ea. Tempor labore ipsum aliqua officia exercitation veniam nisi ex anim cillum et. Occaecat nostrud nisi aliquip consectetur aute nulla. Nostrud eiusmod elit tempor sunt pariatur magna pariatur elit anim eu dolor ad anim commodo. Officia voluptate enim esse culpa ex deserunt sunt voluptate qui labore aliquip aliqua eu officia.",
+    "Description2": "Reprehenderit ea proident excepteur ex ullamco non anim quis. Et deserunt nostrud et qui duis irure. Laborum ad do et aliquip ex dolore reprehenderit aliqua non ut. Commodo duis non voluptate veniam nisi. Commodo nulla esse commodo laboris veniam laborum irure sit ullamco id fugiat.",
+    "Description3": "Nostrud laborum in ut tempor laboris non cupidatat enim laborum sunt qui id fugiat. Consequat sint occaecat ullamco duis. Ad veniam exercitation veniam reprehenderit mollit mollit dolore. Voluptate do tempor est in sunt dolore consequat incididunt aliqua labore ad in.",
+    "Description4": "Sit eiusmod ex ex eu officia et ut quis. Fugiat quis laboris sit cillum sunt culpa fugiat eu. Qui pariatur id aliquip tempor qui. Labore laborum qui ex officia laborum consequat.",
+    "Status": "доработка РМ",
+    "OwnerId": 10,
+    "AuthorId": 19,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 27
+      },
+      {
+        "CoownerId": 11
+      },
+      {
+        "CoownerId": 21
+      }
+    ]
+  },
+  {
+    "Props": [
+      {
+        "chislo": 16,
+        "DateResult": "2018-09-25",
+        "UserId": 31,
+        "Result": "черновик",
+        "Comment": "Est ullamco voluptate proident anim excepteur eu amet incididunt laborum ad."
+      }
+    ],
+    "DateRealisation": "2018-09-25",
+    "DateChange": "2018-09-25",
+    "Description1": "Sunt anim et aliqua tempor velit. Qui cillum veniam ullamco aliqua. Sunt non incididunt proident adipisicing qui ipsum. Aute incididunt fugiat ad exercitation. Deserunt Lorem ex laboris proident Lorem ex.",
+    "Description2": "Anim ea do aliquip voluptate tempor. Et aute dolor irure reprehenderit fugiat et et id. Nulla ea ut tempor reprehenderit nulla cillum ad mollit. Anim pariatur pariatur ad do ea esse do et ex labore.",
+    "Description3": "Culpa aliquip nulla anim adipisicing quis enim ut. Ea aute veniam sit Lorem aute pariatur nisi velit laborum. Do amet ex cupidatat sint in excepteur nisi id cillum aute consectetur fugiat. Enim nisi incididunt elit Lorem. Nostrud officia deserunt ex sit amet est tempor occaecat irure et ea.",
+    "Description4": "Excepteur velit elit eu minim labore nostrud. Cillum tempor labore anim laboris aliquip fugiat cillum est amet elit cupidatat aliqua. Nulla officia pariatur duis pariatur proident deserunt elit ad commodo eu deserunt minim cupidatat duis. Dolor ut nostrud irure minim consequat consequat dolor ad ad excepteur aliquip. Exercitation officia duis sint velit ullamco eu eiusmod proident veniam nisi sint deserunt mollit. Pariatur anim occaecat esse adipisicing laboris id.",
+    "Status": "черновик",
+    "OwnerId": 16,
+    "AuthorId": 31,
+    "RealisationCoowners": [
+      {
+        "CoownerId": 14
+      },
+      {
+        "CoownerId": 17
+      },
+      {
+        "CoownerId": 24
+      }
+    ]
+  }
+]

@@ -1,0 +1,228 @@
+[
+    {
+        "DepartmentId": 1,
+        "Username": "thomas",
+        "Fullname": "милый котик"
+    },
+    {   
+        "DepartmentId": 1,
+        "Username": "markus",
+        "Fullname": "жирненький котик"
+    },
+    {
+        "Username": "s.apr",
+        "DepartmentId": 2
+    },
+    {
+        "Username": "k.apr",
+        "DepartmentId": 2
+    },
+    {
+        "Username": "s.odo",
+        "DepartmentId": 3
+    },
+    {
+        "Username": "k.odo",
+        "DepartmentId": 3
+    },
+    {
+        "Username": "s.oppkz",
+        "DepartmentId": 4
+    },
+    {
+        "Username": "k.oppkz",
+        "DepartmentId": 4
+    },
+    {
+        "Username": "s.ur",
+        "DepartmentId": 5
+    },
+    {
+        "Username": "k.ur",
+        "DepartmentId": 5
+    },
+    {
+        "Username": "s.so",
+        "DepartmentId": 6
+    },
+    {
+        "Username": "k.so",
+        "DepartmentId": 6
+    },
+    {
+        "Username": "s.degs",
+        "DepartmentId": 7
+    },
+    {
+        "Username": "k.degs",
+        "DepartmentId": 7
+    },
+    {
+        "Username": "s.degu",
+        "DepartmentId": 8
+    },
+    {
+        "Username": "k.degu",
+        "DepartmentId": 8
+    },
+    {
+        "Username": "s.dao",
+        "DepartmentId": 9
+    },
+    {
+        "Username": "k.dao",
+        "DepartmentId": 9
+    },
+    {
+        "Username": "s.dlhg",
+        "DepartmentId": 10
+    },
+    {
+        "Username": "k.dlhg",
+        "DepartmentId": 10
+    },
+    {
+        "Username": "s.dtoat",
+        "DepartmentId": 11
+    },
+    {
+        "Username": "k.dtoat",
+        "DepartmentId": 11
+    },
+    {
+        "Username": "s.denn",
+        "DepartmentId": 12
+    },
+    {
+        "Username": "k.denn",
+        "DepartmentId": 12
+    },
+    {
+        "Username": "s.umrn",
+        "DepartmentId": 13
+    },
+    {
+        "Username": "k.umrn",
+        "DepartmentId": 13
+    },
+    {
+        "Username": "s.uespg",
+        "DepartmentId": 14
+    },
+    {
+        "Username": "k.uespg",
+        "DepartmentId": 14
+    },
+    {
+        "Username": "s.def",
+        "DepartmentId": 15
+    },
+    {
+        "Username": "k.def",
+        "DepartmentId": 15
+    },
+    {
+        "Username": "s.urto",
+        "DepartmentId": 16
+    },
+    {
+        "Username": "k.urto",
+        "DepartmentId": 16
+    },
+    {
+        "Username": "s.uit",
+        "DepartmentId": 17
+    },
+    {
+        "Username": "k.uit",
+        "DepartmentId": 17
+    },
+    {
+        "Username": "s.un",
+        "DepartmentId": 18
+    },
+    {
+        "Username": "k.un",
+        "DepartmentId": 18
+    },
+    {
+        "Username": "s.hu",
+        "DepartmentId": 19
+    },
+    {
+        "Username": "k.hu",
+        "DepartmentId": 19
+    },
+    {
+        "Username": "s.ood",
+        "DepartmentId": 20
+    },
+    {
+        "Username": "k.ood",
+        "DepartmentId": 20
+    },
+    {
+        "Username": "s.uk",
+        "DepartmentId": 21
+    },
+    {
+        "Username": "k.uk",
+        "DepartmentId": 21
+    },
+    {
+        "Username": "s.op",
+        "DepartmentId": 22
+    },
+    {
+        "Username": "k.op",
+        "DepartmentId": 22
+    },
+    {
+        "Username": "s.urp",
+        "DepartmentId": 23
+    },
+    {
+        "Username": "k.urp",
+        "DepartmentId": 23
+    },
+    {
+        "Username": "s.ukz",
+        "DepartmentId": 24
+    },
+    {
+        "Username": "k.ukz",
+        "DepartmentId": 24
+    },
+    {
+        "Username": "s.uva",
+        "DepartmentId": 25
+    },
+    {
+        "Username": "k.uva",
+        "DepartmentId": 25
+    },
+    {
+        "Username": "s.b",
+        "DepartmentId": 26
+    },
+    {
+        "Username": "k.b",
+        "DepartmentId": 26
+    },
+    {
+        "Username": "s.ukv",
+        "DepartmentId": 27
+    },
+    {
+        "Username": "k.ukv",
+        "DepartmentId": 27
+    },
+    {
+        "Username": "s.yu",
+        "DepartmentId": 28
+    },
+    {
+        "Username": "k.yu",
+        "DepartmentId": 28
+    }
+]

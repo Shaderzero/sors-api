@@ -1,0 +1,39 @@
+[
+    {
+      'repeat(50, 50)': {
+        Props: [{
+          chislo: '{{integer(1, 28)}}',
+          DateResult: '{{moment(this.date(new Date(2018, 0, 1), new Date())).format("YYYY-MM-DD")}}',
+          UserId(tags) {
+            return +`${this.chislo}` * 2 - 1;
+          },
+          Result: '{{random("черновик", "доработка РК", "доработка РМ", "проверка", "согласование")}}',
+          Comment: '{{lorem(1, "sentences")}}',
+        }],
+        DateRealisation(tags) {
+            return `${this.Props[0].DateResult}`;
+          },
+        DateChange(tags) {
+          return `${this.DateRealisation}`;
+        },
+        Description1: '{{lorem(1, "paragraphs")}}',
+        Description2: '{{lorem(1, "paragraphs")}}',
+        Description3: '{{lorem(1, "paragraphs")}}',
+        Description4: '{{lorem(1, "paragraphs")}}',
+        Status(tags) {
+          return `${this.Props[0].Result}`;
+        },
+        OwnerId(tags) {
+          return +`${this.Props[0].chislo}`;
+        },
+        AuthorId(tags) {
+          return +`${this.Props[0].chislo}` * 2 - 1;
+        },
+        RealisationCoowners: [
+          {CoownerId: '{{integer(1, 28)}}'},
+          {CoownerId: '{{integer(1, 28)}}'},
+          {CoownerId: '{{integer(1, 28)}}'}
+        ]
+      }
+    }
+  ]
